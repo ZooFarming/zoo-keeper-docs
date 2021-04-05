@@ -38,9 +38,9 @@ export default {
 	  //{ locale: 'fr', text: 'Français' },
 	],
   search: true,
-  prevLinks: false,
-  nextLinks: false,
+  prevLinks: true,
+  nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>{new Date().getFullYear()} © ZooKeeper.</>
+  footerText: <>{new Date().getFullYear()} © ZooKeeper Crew</>
 }

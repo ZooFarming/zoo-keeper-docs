@@ -5,9 +5,9 @@ The Market is a place where you can buy NFT Boosters that other ZooKeeper users 
 
 Again, users can choose many different filtering types on the list of available boosters and display only those available that meet the users' requirements more precisely.
 
-## Selling an NFT:
+## Selling an NFT
 *   Go to My Safe
-*   Hoover over the NFT you want to sell with your mouse
+*   Hover over the NFT you want to sell with your mouse
 ![](/docs/image1.png)
 *   Type in the amount and choose the token you want to sell for
 ![](/docs/image20.png)
@@ -16,3 +16,9 @@ Again, users can choose many different filtering types on the list of available 
 *   Approve and after that confirm
 *   You will now see that the card is on sale  
 ![](/docs/image8.png)
+
+## Buying an NFT
+* Hover over the card you want to buy with your mouse and click on buy
+![](/docs/buynft.png)
+* Confirm the buy
+![](/docs/buynft2.png)

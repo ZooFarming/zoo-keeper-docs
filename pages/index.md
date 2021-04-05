@@ -1,6 +1,6 @@
 # ZooKeeper
 
-![](/zookeeper.png)
+![](/ZooKeeper.png)
 
 **ZooKeeper** is a brand new project built as a Wanchain Dapp. It is entirely conceived and developed by passionate members of the community with some collaboration from the Wanchain team. 
 

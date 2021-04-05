@@ -3,8 +3,8 @@ export default {
   titleSuffix: ' – ZooKeeper Docs',
   logo: (
     <>
-      <img src="zoo32x32.png"/>
-      <span className="mr-2 font-extrabold hidden md:inline">ZOOKEEPER</span>
+      <img src="/zoo32x32.png"/>
+      <span style={{fontSize:22}} className="mr-2 ml-2 font-extrabold hidden md:inline">ZOOKEEPER</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         DOCUMENTS
       </span>
@@ -29,12 +29,18 @@ export default {
       
       <link rel="icon" type="image/png" href="/favicon.png"/>
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+	
     </>
   ),
+  i18n: [
+	  { locale: 'en', text: 'English' },
+	  //{ locale: 'zh', text: '中文' },
+	  //{ locale: 'fr', text: 'Français' },
+	],
   search: true,
-  prevLinks: true,
-  nextLinks: true,
-  footer: false,
-  footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  prevLinks: false,
+  nextLinks: false,
+  footer: true,
+  footerEditOnGitHubLink: false,
+  footerText: <>{new Date().getFullYear()} © ZooKeeper.</>
 }

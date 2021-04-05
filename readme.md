@@ -1,22 +1,16 @@
-# [Nextra](https://nextra.vercel.app)
+![](/zoo_logo.png)
 
-_Warning: this project is not production ready, API might change without notice._
+# ZooKeeper Introduction
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+ZooKeeper is a brand new project built as a Wanchain Dapp. It is entirely conceived and developed by passionate members of the community with some collaboration from the Wanchain team.
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+ZooKeeper will drastically improve the functionality of NFTs by giving them a real use case within our platform.
 
-![](/public/demo.png)
 
-## Development
+## What is Zookeeper?
 
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+Zookeeper will provide a dual farming experience while embracing the popular crypto trend of NFTs. The project will complement another existing Wanchain Dapp: Wanswap ([www.wanswap.finance](https://wanswap.finance)); thus greatly augmenting liquidity. However, Zookeeper will have its own utility token ($ZOO) distributed as farming rewards to Wanswap Liquidity Providers (LPs), who stake their WSLP (**W**an **S**wap **L**iquidity **P**rovider tokens). 
 
-## Themes
+All this makes ZooKeeper a unique gamified yield farming Dapp with profit potential and gaming fun.
 
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
-
----
-
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+![](/ss.jpg)

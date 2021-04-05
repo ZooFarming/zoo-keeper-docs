@@ -1,7 +1,14 @@
-# Nextra
+# ZooKeeper
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+![](/zookeeper.png)
 
-It supports Markdown with React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+**ZooKeeper** is a brand new project built as a Wanchain Dapp. It is entirely conceived and developed by passionate members of the community with some collaboration from the Wanchain team. 
 
-![](/demo.png)
+ZooKeeper will drastically improve the functionality of NFTs by giving them a real use case within our platform.
+
+## What is ZooKeeper? ##
+
+Zookeeper will provide a dual farming experience while embracing the popular crypto trend of NFTs. The project will complement another existing Wanchain Dapp: Wanswap (www.wanswap.finance); thus greatly augmenting liquidity. However, Zookeeper will have its own utility token ($ZOO) distributed as farming rewards to Wanswap Liquidity Providers (LPs), who stake their WSLP (Wan Swap Liquidity Provider tokens). 
+
+All this makes ZooKeeper a unique gamified yield farming Dapp with profit potential and gaming fun.
+

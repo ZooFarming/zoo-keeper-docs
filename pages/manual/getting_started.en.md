@@ -1,5 +1,7 @@
 # Getting Started
 
+![](/availableon.png)
+
 Before you start, you'll need one of the three wallets ZooKeeper supports:
 
 *   WanMask (Desktop)

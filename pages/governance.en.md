@@ -1,6 +1,8 @@
 
 # Governance Proposal Rules
 
+![](/governance.png)
+
 Proposals consist of a 3-5 day voting period where the community will submit votes. There are two proposal categories: those initiated by the team, and those initiated by the community. 
 
 

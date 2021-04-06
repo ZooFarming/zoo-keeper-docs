@@ -19,7 +19,7 @@ The option to purchase chests is self-explanatory. You can buy one of either at 
 
 ## Staking ZOO for a Gold Chest:
 <div style={{marginTop:30}}>
-![](/docs/image14.png)
+![](/docs/stackingchest01.png)
 </div>
 The alternative option to obtain an NFT Booster is by locking up your ZOO tokens for a set amount of time:
 *   2 Days

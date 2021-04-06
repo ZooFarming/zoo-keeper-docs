@@ -32,6 +32,8 @@ The Market shows all available NFT Boost cards available to sell. Users can purc
 
 ## My Safe
 
+![](/mysafe.png)
+
 The Safe is an area where the user’s unused NFT boost cards are displayed. Not only does it allow the viewing of potential boosts these cards can bring to farming pools, but it also provides the opportunity to sell any unwanted cards for the user’s preferred value/currency.
 
 

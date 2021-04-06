@@ -19,7 +19,7 @@ The option to purchase chests is self-explanatory. You can buy one of either at 
 
 ## Staking ZOO for a Gold Chest:
 <div style={{marginTop:30}}>
-![](/docs/image14.png)
+![](/docs/stackingchest01.png)
 </div>
 The alternative option to obtain an NFT Booster is by locking up your ZOO tokens for a set amount of time:
 *   2 Days
@@ -45,5 +45,5 @@ Chest prices are set dynamically with a decrease of 1% in price every hour (no c
 1 Silver Chest costs 10 times less than a Gold Chest.
 To receive 1 Gold Chest from staking ZOO tokens:
 * 2 days of lock = the amount of ZOO needed to stake is 10 times the current price of a Gold Chest
-* 15 days lock = the amount of ZOO needed to stake is the current price of 1 Gold Chest \
+* 15 days lock = the amount of ZOO needed to stake is the current price of 1 Gold Chest
 * 30 days lock = the amount of ZOO needed to stake is 5 times the current price of a Silver Chest

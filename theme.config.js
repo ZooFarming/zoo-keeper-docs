@@ -19,16 +19,16 @@ export default {
       <meta name="description" content="ZooKeeper: Providing dual farming experience while embracing the popular crypto trend of NFTs" />
       <meta name="og:description" content="ZooKeeper: Providing dual farming experience while embracing the popular crypto trend of NFTs" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="ZooKeeper.png" />
+      <meta name="twitter:image" content="meta.png" />
       <meta name="twitter:site:domain" content="zookeeper.finance" />
       <meta name="twitter:url" content="https://twitter.com/ZooFarming" />
       <meta name="og:title" content="ZooKeeper: Documentation" />
-      <meta name="og:image" content="ZooKeeper.png" />
+      <meta name="og:image" content="meta.png" />
       <meta name="apple-mobile-web-app-title" content="ZooKeeper Docs" />
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
+      <link rel="apple-touch-icon" sizes="180x180" href="/favicon_big.png"/>
       
       <link rel="icon" type="image/png" href="/favicon.png"/>
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+      <meta name="msapplication-TileImage" content="/favicon_big.png"/>
 	
     </>
   ),

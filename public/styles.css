@@ -2,3 +2,6 @@ html
 {
 	font-size:18px;
 }
+.max-w-screen-md {
+    max-width: 960px;
+}

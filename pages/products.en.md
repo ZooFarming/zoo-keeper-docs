@@ -3,6 +3,8 @@
 
 ## The Zoo 
 
+![](/thezoo.png)
+
 In this section, there are several farming pools that allow the user to deposit liquidity and earn rewards. Each pool features an individual zoo animal representing the associated farming pair. Each pool has several functionalities and options (NFT Boost Cards) attached to it including the possibility of reducing locktime and boosting rewards.
 
 
@@ -10,6 +12,8 @@ In this section, there are several farming pools that allow the user to deposit 
 
 
 ### Gold & Silver Chests
+
+![](/goldchestfeature.png)
 
 The user has the possibility of earning chests by either buying them directly using ZOO tokens, or by locking these ZOO tokens. A gold chest will automatically provide the user with an NFT while a silver chest will only give a 1 in 10 chance. All purchased chests automatically burn the ZOO tokens used.
 
@@ -20,6 +24,8 @@ The user has the possibility of earning chests by either buying them directly us
 
 
 ## The Market
+
+![](/ZooMarket.png)
 
 The Market shows all available NFT Boost cards available to sell. Users can purchase NFT Boost cards with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
 

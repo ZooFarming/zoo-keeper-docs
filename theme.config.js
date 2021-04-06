@@ -25,10 +25,10 @@ export default {
       <meta name="og:title" content="ZooKeeper: Documentation" />
       <meta name="og:image" content="meta.png" />
       <meta name="apple-mobile-web-app-title" content="ZooKeeper Docs" />
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
+      <link rel="apple-touch-icon" sizes="180x180" href="/favicon_big.png"/>
       
       <link rel="icon" type="image/png" href="/favicon.png"/>
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+      <meta name="msapplication-TileImage" content="/favicon_big.png"/>
 	
     </>
   ),

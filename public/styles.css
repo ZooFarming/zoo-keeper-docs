@@ -5,3 +5,8 @@ html
 .max-w-screen-md {
     max-width: 960px;
 }
+article a{
+    color:#00a99d;
+    font-weight:bold;
+   
+}

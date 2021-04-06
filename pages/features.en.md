@@ -47,4 +47,4 @@ ZooKeeper Community will have access to a voting system that will be reviewed by
 
 ZooKeeper has integrated different burning mechanics on its platform to reduce the max supply of ZOO Token.
 
-[Learn more about Burning Details](/governance)
+[Learn more about Burning Details](/manual/info_panel#zoo-burning)

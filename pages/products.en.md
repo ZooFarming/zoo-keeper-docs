@@ -16,6 +16,8 @@ The user has the possibility of earning chests by either buying them directly us
 
 ### Magic Spells (Coming soon)
 
+![](/phase2/magic_spells.png)
+
 
 ## The Market
 
@@ -29,9 +31,13 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 
 ## ZOO Safari Staking (coming soon phase II)
 
+![](/phase2/staking_safari.png)
 
 ## Crafting (coming soon phase II)
 
+![](/phase2/crafting.png)
 
 ## Gambling (coming soon phase II)
+
+![](/phase2/boxing.png)
 

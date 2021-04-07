@@ -1,5 +1,5 @@
-# Why use Wanchain (WAN)?
+# Pourquoi utiliser Wanchain (WAN) ?
 
-Using the Wanchain ecosystem has the perks of optimizing features of ZooKeeper. As Zookeeper requires a lot of transactions using a fast and low-fees tx chain such as Wanchain is essential. Being a completely decentralized cross chain, Wanchain is the perfect match.
+Utiliser l'écosystème Wanchain possède l'avantage d'optimiser les fonctionnalités de Zookeeper. Puisque Zookeeper génère beaucoup de transactions, utiliser une chaine tx rapide et avec des frais peu élevés comme Wanchain est essentiel. Etant une cross chain complètement décentralisée, Wanchain représente l'association parfaite.
 
 ![](/zooxwan.png)

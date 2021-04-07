@@ -1,9 +1,9 @@
-# ROADMAP
+# PLAN D'ACTION
 
 ![](/roadmap.png)
 
-**Phase I “Launching Phase”** - Launch of the ZooKeeper Dapp with available dual farming reward pools. Purchase dynamically priced chests and stake ZOO Token. Purchase and sell NFTs on the Market.
+**Phase I “Phase de lancement”** - Lancement de l'application décentralisée Zookeeper avec la possibilité d'utiliser des pools de récompense en double farming.  Achetez des coffres aux prix dynamiques et investissez vos tokens ZOO. Achetez et vendez des NFT sur Le Marché.
 
-**Phase II “Crafting Phase”** - This phase will add magic spells and the ability to craft new NFT Boost cards as well as a gambling token system.
+**Phase II “Phase de craft”** - Cette phase ajoutera des sorts de magie et la possibilité de confectionner de nouvelles cartes de boost NFT, avec également un système de paris de tokens.
 
-**Phase III “Utility Token Phase”** - Global NFT market, users can create their own NFT and their own collection; users will be able to trade, auction and create their own store with ZooKeeper and NFT
+**Phase III “Phase de tokens d'utilité”** - Le marché NFT global permettra aux utilisateurs de créer leurs propres NFT et leur propre collection. Les utilisateurs pourront échanger, mettre aux enchères et créer leur propre magasin de NFT avec Zookeeper.

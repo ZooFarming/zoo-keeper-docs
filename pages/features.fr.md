@@ -1,11 +1,11 @@
 # Features
 
 
-## Dual Farming
+## Double Farming
 
 ![](/dualfarming.png)
 
-In Zookeeper, the notion of dual farming is introduced which allows the user to farm zoo tokens and wasp tokens (on selected pools) due to the partnership with WanSwap.
+Dans Zookeeper, la notion de double farming est introduite ce qui autorise l'utilisateur à farmer des tokens ZOO ainsi que des tokens WASP (sur certaines pools) grâce au partenariat avec WanSwap.
 
 [Learn more about Wanswap](/faq#explain-wanswap)
 

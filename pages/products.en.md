@@ -18,7 +18,7 @@ In this section, there are several farming pools that allow the user to deposit 
 
 The user has the possibility of earning chests by either buying them directly using ZOO tokens, or by locking these ZOO tokens. A gold chest will automatically provide the user with an NFT while a silver chest will only give a 1 in 10 chance. All purchased chests automatically burn the ZOO tokens used.
 
-[Learn more about Chests](/expedition#buy-goldsilver-chests)
+[Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
 ### Magic Spells (Coming soon)
 

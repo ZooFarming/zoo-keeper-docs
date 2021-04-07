@@ -18,7 +18,7 @@ Dans cette section, il y a plusieurs pools de farming qui autorisent l'utilisate
 
 L'utilisateur a la possibilité de gagner des coffres en les achetant directement avec des tokens ZOO, ou en verrouillant ces mêmes tokens. Un coffre d'or fournit automatiquement un NFT alors qu'un coffre d'argent offrira simplement une chance sur dix d'en obtenir. Tous les achats de coffres brûleront automatiquement les tokens ZOO dépensés.
 
-[Learn more about Chests](/expedition#buy-goldsilver-chests)
+[Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
 ### Sorts de magie (bientôt disponible)
 

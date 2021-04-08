@@ -15,7 +15,7 @@ Dans Zookeeper, la notion de double farming est introduite ce qui permet à l'ut
 
 ZooKeeper offre la possibilité à l'utilisateur d'augmenter les récompenses du yield farming en ajoutant une période de verrouillage optionelle pour toutes les pools. Plus la période choisie est longue, plus les récompenses sont élevées.
 
-[En savoir plus sur Pool](/manual/pool)
+[En savoir plus sur les Pools](/manual/pool)
 
 ## Attacher des cartes de boost NFT
 
@@ -23,7 +23,7 @@ ZooKeeper offre la possibilité à l'utilisateur d'augmenter les récompenses du
 
 Des cartes de boost additionel NFT sont disponibles dans Zookeeper. Cette capacité unique dans le marché de la crypto permettra à chaque utilisateur de reduire la durée de verrouillage et augmenter les récompenses. 
 
-[En savoir plus sur Pool](/manual/pool)
+[En savoir plus sur les Pools](/manual/pool)
 
 ## Echanges de NFT
 

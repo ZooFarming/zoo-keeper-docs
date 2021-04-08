@@ -1,5 +1,5 @@
-# CODE AUDIT
+# AUDIT DU CODE
 
 ![](/codeaudit.png)
 
-Official audit is currently being processed by HAECHI (eta end of May 2021) while the current code has been pre-audited by the Wanchain Team and can be found on the Github: [https://github.com/ZooFarming](https://github.com/ZooFarming)
+Un audit officiel par HAECHI est en cours (publication prévue pour la fin Mai 2021), alors que le code actuel a déjà été pré-audité par l'équipe de Wanchain et il est accessible sur Github: [https://github.com/ZooFarming](https://github.com/ZooFarming)

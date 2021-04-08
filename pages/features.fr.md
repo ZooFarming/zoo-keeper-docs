@@ -7,7 +7,7 @@
 
 Dans Zookeeper, la notion de double farming est introduite ce qui permet à l'utilisateur de farmer des tokens ZOO ainsi que des tokens WASP (sur certaines pools) grâce au partenariat avec WanSwap.
 
-[Learn more about Wanswap](/faq#explain-wanswap)
+[En savoir plus sur Wanswap](/faq#explain-wanswap)
 
 ## Période de verrouillage optionelle
 
@@ -15,7 +15,7 @@ Dans Zookeeper, la notion de double farming est introduite ce qui permet à l'ut
 
 ZooKeeper offre la possibilité à l'utilisateur d'augmenter les récompenses du yield farming en ajoutant une période de verrouillage optionelle pour toutes les pools. Plus la période choisie est longue, plus les récompenses sont élevées.
 
-[Learn more about Pool](/manual/pool)
+[En savoir plus sur Pool](/manual/pool)
 
 ## Attacher des cartes de boost NFT
 
@@ -23,7 +23,7 @@ ZooKeeper offre la possibilité à l'utilisateur d'augmenter les récompenses du
 
 Des cartes de boost additionel NFT sont disponibles dans Zookeeper. Cette capacité unique dans le marché de la crypto permettra à chaque utilisateur de reduire la durée de verrouillage et augmenter les récompenses. 
 
-[Learn more about Pool](/manual/pool)
+[En savoir plus sur Pool](/manual/pool)
 
 ## Echanges de NFT
 
@@ -31,7 +31,7 @@ Des cartes de boost additionel NFT sont disponibles dans Zookeeper. Cette capaci
 
 Tous les NFTs ont la possibilité d'être soit utilisés soit vendus dans la section "Le Marché". Vendre des NFTs peut être fait dans plusieurs cryptomonnaies disponibles dans Zookeeper.
 
-[Learn more about The Market](/manual/market)
+[En savoir plus sur Le Marché](/manual/market)
 
 ## Gouvernance
 
@@ -39,7 +39,7 @@ Tous les NFTs ont la possibilité d'être soit utilisés soit vendus dans la sec
 
 La communauté ZooKeeper aura accès à un système de vote, lequel devra être approuvé par l'équipe de Zookeeper avant toute exécution.
 
-[Learn more about Governance rules](/governance)
+[En savoir plus sur les règles de gouvernance](/governance)
 
 ## Mécanique de brûlage
 
@@ -47,4 +47,4 @@ La communauté ZooKeeper aura accès à un système de vote, lequel devra être 
 
 ZooKeeper à integré plusieurs mécaniques de brûlage sur sa plate-forme afin de réduire le fond maximum de tokens ZOO.
 
-[Learn more about Burning Details](/manual/info_panel#zoo-burning)
+[En savoir plus sur les mécaniques de brûlage](/manual/info_panel#zoo-burning)

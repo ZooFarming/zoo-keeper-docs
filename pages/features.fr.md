@@ -1,50 +1,50 @@
-# Features
+# Fonctionnalités
 
 
 ## Double Farming
 
 ![](/dualfarming.png)
 
-Dans Zookeeper, la notion de double farming est introduite ce qui autorise l'utilisateur à farmer des tokens ZOO ainsi que des tokens WASP (sur certaines pools) grâce au partenariat avec WanSwap.
+Dans Zookeeper, la notion de double farming est introduite ce qui permet à l'utilisateur de farmer des tokens ZOO ainsi que des tokens WASP (sur certaines pools) grâce au partenariat avec WanSwap.
 
-[Learn more about Wanswap](/faq#explain-wanswap)
+[En savoir plus sur Wanswap](/faq#explain-wanswap)
 
-## Optional Lock Period
+## Période de verrouillage optionelle
 
 ![](/locktime.png)
 
-ZooKeeper offers users the possibility of increasing yield farming rewards by using the optional lock period function available for each pool. The longer the period chosen, the more rewards will be given.
+ZooKeeper offre la possibilité à l'utilisateur d'augmenter les récompenses du yield farming en ajoutant une période de verrouillage optionelle pour toutes les pools. Plus la période choisie est longue, plus les récompenses sont élevées.
 
-[Learn more about Pool](/manual/pool)
+[En savoir plus sur Pool](/manual/pool)
 
-## Attach NFT Boost Cards
+## Attacher des cartes de boost NFT
 
 ![](/attach.png)
 
-Extra NFT boost cards are available on ZooKeeper. This unique ability in the crypto market will allow each user to both reduce the locktime and increase rewards. 
+Des cartes de boost additionel NFT sont disponibles dans Zookeeper. Cette capacité unique dans le marché de la crypto permettra à chaque utilisateur de reduire la durée de verrouillage et augmenter les récompenses. 
 
-[Learn more about Pool](/manual/pool)
+[En savoir plus sur Pool](/manual/pool)
 
-## NFT Trading
+## Echanges de NFT
 
 ![](/nfttrading.png)
 
-All NFTs have a possibility to be used or sold in the market section. Selling NFT’s can be done in several cryptocurrencies available on ZooKeeper.
+Tous les NFTs ont la possibilité d'être soit utilisés soit vendus dans la section "Le Marché". Vendre des NFTs peut être fait dans plusieurs cryptomonnaies disponibles dans Zookeeper.
 
-[Learn more about The Market](/manual/market)
+[En savoir plus sur Le Marché](/manual/market)
 
-## Governance
+## Gouvernance
 
 ![](/governance.png)
 
-ZooKeeper Community will have access to a voting system that will be reviewed by the ZooKeeper team before implementation.
+La communauté ZooKeeper aura accès à un système de vote, lequel devra être approuvé par l'équipe de Zookeeper avant toute exécution.
 
-[Learn more about Governance rules](/governance)
+[En savoir plus sur les règles de gouvernance](/governance)
 
-## Burn Mechanic
+## Mécanique de brûlage
 
 ![](/burnmechanic.png)
 
-ZooKeeper has integrated different burning mechanics on its platform to reduce the max supply of ZOO Token.
+ZooKeeper à integré plusieurs mécaniques de brûlage sur sa plate-forme afin de réduire le fond maximum de tokens ZOO.
 
-[Learn more about Burning Details](/manual/info_panel#zoo-burning)
+[En savoir plus sur les mécaniques de brûlage](/manual/info_panel#zoo-burning)

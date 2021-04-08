@@ -1,22 +1,22 @@
 
-# Governance Proposal Rules
+# Règles de gouvernance
 
 ![](/governance.png)
 
-Proposals consist of a 3-5 day voting period where the community will submit votes. There are two proposal categories: those initiated by the team, and those initiated by the community. 
+Les propositions s'étendent sur une période de 3 à 5 jours durant laquelle la communauté peut soumettre des votes. Il y a deux catégories possibles : ceux initiés par l'équipe et ceux initiés par la communauté. 
 
 
-## Team Proposals
+## Les propositions de l'équipe
 
-Team proposals require a 50% approval from the community and 10% of eligible votes (circulating supply), this means that all addresses that voted need to account for at least 10% of the total circulating supply
-
-
-
-## Community Proposals
-
-Proposing governance actions requires you to hold at least 0.2% of the circulating ZOO supply on your address. Once a governance proposal has been initiated, the team will need to confirm if implementing the proposal is technically possible, regardless of the team's opinion on the proposal (the technical justification must be shared with the proposal creator, and the community if necessary). Once the technicalities have been confirmed, the voting can begin. In order for the proposal to pass, it requires a 55% approval from the community and 10% of eligible votes (circulating supply).
+Les propositions de l'équipe exigent une approbation à 50% de la part de la communauté et à 10% de la part des votes éligibles (des fonds en circulation), cela signifie que toutes les adresses qui votent doivent compter pour au moins 10% du total de fonds en circulation.  
 
 
-Once a proposal has passed, it will be implemented shortly after. To initiate a proposal, head over to http://bbs.zookeeper.finance to discuss with community and then create proposal in https://vote.wandevs.org/#/zookeeper
+## Les propositions de la communauté
 
-_Note:_ _In a scenario where more than one technical implementation is required, this will be addressed on a first-come, first-served basis._
+Proposer une action de gouvernance exige que votre adresse contienne au moins 0.2% des fonds ZOO en circulation. Une fois qu'une proposition a été initiée, l'équipe devra confirmer si l'éxecution de la proposition est techniquement possible, quel que soit l'avis de l'équipe sur la proposition (la justification technique devra être partagée avec le créateur de la proposition, et avec la communauté si nécessaire). Après confirmation de l'aspect technique, les votes peuvent commencer. Pour que la propositon puisse être validée, 55% d'approbation venant de la communauté ainsi que 10% des votes éligibles (des fonds en circulation) sont nécessaires.
+
+
+Une fois qu'une proposition a été validée, elle sera appliquée sous peu. Pour soumettre une proposition, rendez-vous sur http://bbs.zookeeper.finance pour discuter avec la communauté et sur https://vote.wandevs.org/#/zookeeper pour créer une proposition.  
+
+
+_Note:_ _Dans le cas où plus d'une éxecution technique serait nécessaire, la première proposition soumise sera prioritaire._

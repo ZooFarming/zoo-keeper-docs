@@ -1,18 +1,17 @@
 
-# Governance Proposal Rules
+# Règles de gouvernance
 
 ![](/governance.png)
 
-Proposals consist of a 3-5 day voting period where the community will submit votes. There are two proposal categories: those initiated by the team, and those initiated by the community. 
+Les propositions s'étendent sur une période de 3 à 5 jours durant laquelle la communauté peut soumettre des votes. Il y a deux catégories possibles : ceux initiés par l'équipe et ceux initiés par la communauté. 
 
 
-## Team Proposals
+## Les propositions de l'équipe
 
-Team proposals require a 50% approval from the community and 10% of eligible votes (circulating supply), this means that all addresses that voted need to account for at least 10% of the total circulating supply
+Les propositions de l'équipe exigent une approbation à 50% de la part de la communauté et à 10% de la part des votes éligibles (des fonds circulants), cela signifie que toutes les adresses qui votent doivent compter pour au moins 10% du total de fonds circulants.  
 
 
-
-## Community Proposals
+## Les propositions de la communauté
 
 Proposing governance actions requires you to hold at least 0.2% of the circulating ZOO supply on your address. Once a governance proposal has been initiated, the team will need to confirm if implementing the proposal is technically possible, regardless of the team's opinion on the proposal (the technical justification must be shared with the proposal creator, and the community if necessary). Once the technicalities have been confirmed, the voting can begin. In order for the proposal to pass, it requires a 55% approval from the community and 10% of eligible votes (circulating supply).
 

@@ -7,7 +7,7 @@
 
 Dans cette section, il y a plusieurs pools de farming qui autorisent l'utilisateur à déposer de la liquidité et gagner des récompenses. Chaque pool se caractérise par un animal unique qui représente la paire de farming associée. Chaque pool possède plusieurs fonctionnalités et options (cartes de boost NFT) qui lui sont rattachées, notamment la possibilité de réduire le temps de vérrouillage ainsi que des récompenses de boost.
 
-[En savoir plus sur Pool](/manual/pool)
+[En savoir plus sur les Pools](/manual/pool)
 
 ## Les Expéditions
 

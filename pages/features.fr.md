@@ -1,4 +1,4 @@
-# Features
+# Fonctionnalités
 
 
 ## Double Farming

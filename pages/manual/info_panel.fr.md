@@ -1,4 +1,4 @@
-# Tablau informatif
+# Tableau informatif
 
 ## Information token ZOO
 ![](/docs/image7.png)

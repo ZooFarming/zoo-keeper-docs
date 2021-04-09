@@ -13,3 +13,5 @@ YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFar
 Reddit: [https://www.reddit.com/user/ZooFarming](https://www.reddit.com/user/ZooFarming) 
 
 社区论坛: [http://bbs.zookeeper.finance](http://bbs.zookeeper.finance)
+
+QQ群：983132810

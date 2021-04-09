@@ -45,6 +45,6 @@ La communauté ZooKeeper aura accès à un système de vote, lequel devra être 
 
 ![](/burnmechanic.png)
 
-ZooKeeper à integré plusieurs mécaniques de brûlage sur sa plate-forme afin de réduire le fond maximum de tokens ZOO.
+ZooKeeper a integré plusieurs mécaniques de brûlage sur sa plate-forme afin de réduire le fond maximum de tokens ZOO.
 
 [En savoir plus sur les mécaniques de brûlage](/manual/info_panel#zoo-burning)

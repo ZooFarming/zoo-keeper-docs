@@ -5,6 +5,7 @@ The Market is a place where you can buy NFT Boosters that other ZooKeeper users 
 
 Again, users can choose many different filtering types on the list of available boosters and display only those available that meet the users' requirements more precisely.
 
+Sale orders are valid for 14 days by default, and orders longer than 14 days will be removed automatically.
 ## Selling an NFT
 *   Go to My Safe
 *   Hover over the NFT you want to sell with your mouse

@@ -47,4 +47,4 @@ ZooKeeper社区将可以使用投票系统，在实施前由ZooKeeper团队审�
 
 ZooKeeper在其平台上整合了不同的燃烧机制，以减少ZOO Token的最大供应。
 
-[了解更多烧币机制](/governance)
+[了解更多烧币机制](/manual/info_panel#zoo-burning)

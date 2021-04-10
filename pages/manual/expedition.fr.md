@@ -1,12 +1,12 @@
-# The Expedition
+# L'Expédition
 
-The expedition page displays multiple ways to spend or stake ZOO tokens to obtain a "Chest". There are two types of chests: Gold and Silver.
+La page de l'Expédition affiche plusieurs façons de dépenser ou de vérrouiller des tokens ZOO pour obtenir un "Coffre". Il y a deux types de coffres : Or et Argent. 
 
-No matter how you manage to obtain it, a gold chest will always contain an NFT Booster. 
+Peu importe comment vous l'obtenez, un coffre d'or contiendra toujours un booster NFT.
 
-A silver chest, however, will have a 1 in 10 chance of winning an NFT Booster. If you manage to get an NFT from a silver chest, it will not be of the class you would get from a gold chest.
+Un coffre d'argent, cependant, vous octroiera 1 chance sur 10 d'obtenir un booster NFT. Un NFT obtenu à partir d'un coffre en argent, ne sera pas de la même classe que venant d'un coffre d'or.
 
-## Buy Gold/Silver Chests:
+## Acheter coffres d'or/d'argent :
 
 <div style={{float:'left',marginTop:30}}>
 ![](/docs/image10.png)
@@ -15,35 +15,35 @@ A silver chest, however, will have a 1 in 10 chance of winning an NFT Booster. I
 ![](/docs/image19.png)
 </div>
 
-The option to purchase chests is self-explanatory. You can buy one of either at a time. If an NFT Booster is awarded (remember, silver has a 1 in 10 chance), purchasing will automatically open and add the NFT Booster card to "My Safe".
+L'option pour acheter des coffres est plutôt claire. Vous pouvez en acheter un à la fois. Si vous obtenez un booster NFT (pour rappel, un coffre d'argent à 1 chance sur 10), il sera automatiquement ajouté à la section "Mon Coffre-Fort".
 
-## Staking ZOO for a Gold Chest:
+## Verrouiller des tokens ZOO pour un coffre d'or :
 <div style={{marginTop:30}}>
 ![](/docs/stackingchest01.png)
 </div>
-The alternative option to obtain an NFT Booster is by locking up your ZOO tokens for a set amount of time:
-*   2 Days
-*   15 Days
-*   30 Days
+Une seconde option pour obtenir un booster NFT sera de verrouiller vos tokens ZOO pendant un moment prédéfini
+*   2 jours
+*   15 jours
+*   30 jours
 
 <div style={{marginTop:30}}>
 ![](/docs/image15.png)
 </div>
 
-Once you have staked your ZOO tokens, a countdown timer will be visible, displaying the remaining time left until you can claim the gold chest.
+Une fois vos tokens ZOO ajoutés et verrouillés, un compte à rebours sera visible, affichant le temps restant pour pouvoir obtenir le coffre d'or.
 
 <div style={{marginTop:30}}>
 ![](/docs/image18.png)
 </div>
 
-## Dynamic Pricing Mechanics
+## Mécaniques de prix dynamique
 
-Chest prices are set dynamically with a decrease of 1% in price every hour (no chest purchases) and increase of 1% every time a chest is bought, or when ZOO tokens are staked. 
+Les prix des coffres sont déterminés de facon dynamique avec une diminution de 1% par heure si aucun coffre n'est acheté et une augmentation de 1% chaque fois qu'un coffre est acheté, ou que des tokens ZOO sont verrouillés. 
 
 <span style={{textDecoration:'underline'}}>Price Rules:</span>
 
-1 Silver Chest costs 10 times less than a Gold Chest.
-To receive 1 Gold Chest from staking ZOO tokens:
-* 2 days of lock = the amount of ZOO needed to stake is 10 times the current price of a Gold Chest
-* 15 days lock = the amount of ZOO needed to stake is the current price of 1 Gold Chest
-* 30 days lock = the amount of ZOO needed to stake is 5 times the current price of a Silver Chest
+1 coffre d'argent coûte 10 fois moins qu'un coffre d'or.
+Pour recevoir 1 coffre d'or en verrouillant vos tokens ZOO :
+* 2 jours de verrouillage = le montant de ZOO requis est égal à 10 fois le montant d'un coffre d'or
+* 15 jours de verrouillage = le montant de ZOO requis est égal au prix d'un coffre d'or
+* 30 jours de verrouillage = le montant de ZOO requis est égal à 5 fois le montant d'un coffre d'argent

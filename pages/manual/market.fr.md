@@ -1,25 +1,25 @@
-# The Market
+# Le Marché
 ![](/docs/image16.png)
 
-The Market is a place where you can buy NFT Boosters that other ZooKeeper users want to sell. Users can purchase boosters with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
+Le Marché est le lieu où vous pouvez acheter des boosters NFTs que les autres utilisateurs de ZooKeeper veulent vendre. Les utilisateurs peuvent acheter des boosters grace à un éventail de différents tokens Wan (le montant affiché représente ce que le vendeur demande et est expliqué plus tard dans la section "Mon Coffre-Fort").
 
-Again, users can choose many different filtering types on the list of available boosters and display only those available that meet the users' requirements more precisely.
+Encore une fois, les utilisateurs peuvent choisir différentes options de filtrage dans la liste de boosters disponibles et afficher seulement ceux qui réunissent les caractéristiques recherchées par l'utilisateur.
 
-Sale orders are valid for 14 days by default, and orders longer than 14 days will be removed automatically.
-## Selling an NFT
-*   Go to My Safe
-*   Hover over the NFT you want to sell with your mouse
+Les ordres de vente sont valides pendant 14 jours par défaut et seront automatiquement retirés après cette période.
+## Vendre un NFT
+*   Allez dans Mon Coffre-Fort
+*   Placez le curseur sur le NFT que vous souhaitez vendre
 ![](/docs/image1.png)
-*   Type in the amount and choose the token you want to sell for
+*   Tapez le montant et choisissez votre token préférentiel pour cette vente
 ![](/docs/image20.png)
-*   Click on SELL 
+*   Cliquez sur VENDRE 
 ![](/docs/image9.png)
-*   Approve and after that confirm
-*   You will now see that the card is on sale  
+*   Approuvez et ensuite confirmez
+*   Vous verrez maintenant que la carte est mise en vente  
 ![](/docs/image8.png)
 
-## Buying an NFT
-* Hover over the card you want to buy with your mouse and click on buy
+## Acheter un NFT
+* Placez votre curseur sur la carte que vous souhaitez acheter et cliquez sur acheter
 ![](/docs/buynft.png)
-* Confirm the buy
+* Confirmez l'achat
 ![](/docs/buynft2.png)

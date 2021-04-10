@@ -1,11 +1,11 @@
-# Getting Started
+# Pour commencer
 
 ![](/availableon.png)
 
-Before you start, you'll need one of the three wallets ZooKeeper supports:
+Avant de commencer, vous aurez besoin de l'un des trois portefeuilles que ZooKeeper supporte :
 
-*   WanMask (Desktop)
-*   Wanwallet (Desktop/Mobile)
-*   Coming Soon: MetaMask (Desktop/Mobile) late APRIL 2021
+*   WanMask (Bureau)
+*   Wanwallet (Bureau/Mobile)
+*   Bientôt disponible : MetaMask (Bureau/Mobile) fin AVRIL 2021
 
-Once you have a compatible wallet and WSLP tokens (check the [FAQ](/faq#how-to-add-liquidity) on how to provide liquidity on WanSwap), you can get busy farming and have some fun while doing it too.
+Après avoir obtenu un portefeuille compatible et des tokens WSLP (voir le [FAQ](/faq#how-to-add-liquidity) pour savoir comment ajouter de la liquidité sur Wanswap), vous pouvez commencer à farmer tout en vous amusant.

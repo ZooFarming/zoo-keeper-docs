@@ -7,7 +7,7 @@
 
 在这一节中，有多个挖矿池允许用户存入流动性和赚取奖励。每个挖矿池都有一只独特的动物园里的动物，代表着相关的一个挖矿对。每个矿池都有一些功能和选项(例如NFT 加速卡牌)，通过它们可减少锁定时间和增加奖励。
 
-[Learn more about Pool](/manual/pool)
+[了解更多关于挖矿池](/manual/pool)
 
 ## 去探险
 
@@ -16,9 +16,9 @@
 
 ![](/goldchestfeature.png)
 
-用户可以通过直接使用ZOO代币购买或锁定这些ZOO代币来赚取宝箱。金箱子将100%概率提供给用户NFT，而银箱子只有10%的机会获得NFT，并且肯定不会产出顶级NFT。所有购买的箱子都会自动燃烧ZOO代币。
+用户可以通过直接使用ZOO代币购买或锁定这些ZOO代币来赚取宝箱。金箱子将100%概率提供给用户NFT。而银箱子只有10%的机会获得NFT，并且肯定不会产出顶级NFT。所有购买的箱子都会自动燃烧ZOO代币。
 
-[Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
+[了解更多关于宝箱](/manual/expedition#buy-goldsilver-chests)
 
 ### 魔法卷轴 (即将到来)
 

@@ -16,7 +16,7 @@
 
 ![](/goldchestfeature.png)
 
-用户可以通过直接使用ZOO代币购买或锁定这些ZOO代币来赚取宝箱。金箱子将100%概率提供给用户NFT，而银箱子只有10%的机会获得非顶级NFT。所有购买的箱子都会自动燃烧ZOO代币。
+用户可以通过直接使用ZOO代币购买或锁定这些ZOO代币来赚取宝箱。金箱子将100%概率提供给用户NFT，而银箱子只有10%的机会获得NFT，并且肯定不会产出顶级NFT。所有购买的箱子都会自动燃烧ZOO代币。
 
 [Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 

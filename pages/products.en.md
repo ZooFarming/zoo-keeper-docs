@@ -18,10 +18,6 @@ In this section, there are several farming pools that allow the user to deposit 
 
 The user has the possibility of earning chests by either buying them directly using ZOO tokens, or by locking these ZOO tokens. A gold chest will automatically provide the user with an NFT while a silver chest will only give a 1 in 10 chance. All purchased chests automatically burn the ZOO tokens used.
 
-### The Safari Pools
-
-Safari pools are staking pools where the rewards received are chosen by the community.  This was planned from the very start and is possible becuase 3% of the minted $ZOO tokens as shown in the [Tokenomics FAQ Section](/faq#tokenomics) are set aside to buy the communities wanToken they voted for.
-
 [Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
 ### Magic Spells (Coming soon)
@@ -50,6 +46,9 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 ## ZOO Safari Staking (coming soon phase II)
 
 ![](/phase2/staking_safari.png)
+
+Safari pools are staking pools where the rewards received are chosen by the community.  This was planned from the very start and is possible becuase 3% of the minted $ZOO tokens as shown in the [Tokenomics FAQ Section](/faq#tokenomics) are set aside to buy the communities wanToken they voted for.
+
 
 ## Crafting (coming soon phase II)
 

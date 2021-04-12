@@ -47,7 +47,7 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 
 ![](/phase2/staking_safari.png)
 
-Safari pools are staking pools where the rewards received are chosen by the community.  This was planned from the very start and is possible becuase 3% of the minted $ZOO tokens as shown in the [Tokenomics FAQ Section](/faq#tokenomics) are set aside to buy the communities wanToken they voted for.
+Safari pools are staking pools where the rewards received are chosen by the community.  This was planned from the very start and is possible because 3% of the minted $ZOO tokens as shown in the [Tokenomics FAQ Section](/faq#tokenomics) are set aside to buy the communities wanToken they voted for.
 
 
 ## Crafting (coming soon phase II)

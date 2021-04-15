@@ -16,8 +16,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="ZooKeeper: Providing dual farming experience while embracing the popular crypto trend of NFTs" />
-      <meta name="og:description" content="ZooKeeper: Providing dual farming experience while embracing the popular crypto trend of NFTs" />
+      <meta name="description" content="ZooKeeper delivers a new and exciting dual farming experience, enabling the user to enjoy higher crypto rewards while making use of NFTs" />
+      <meta name="og:description" content="ZooKeeper delivers a new and exciting dual farming experience, enabling the user to enjoy higher crypto rewards while making use of NFTs" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="meta.png" />
       <meta name="twitter:site:domain" content="zookeeper.finance" />

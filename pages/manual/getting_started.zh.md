@@ -6,6 +6,6 @@
 
 *   [WanMask](https://wanmask.io/) (Desktop)
 *   [WanWallet](https://wanchain.org/getstarted) (Desktop/Mobile)
-*   Coming Soon: [MetaMask](https://metamask.io/) (Desktop/Mobile) late APRIL 2021
+*   [MetaMask](https://metamask.io/) (Desktop/Mobile)
 
 一旦你有了一个兼容的钱包和WSLP代币(查看[FAQ](/faq#how-to-add-liquidity) 关于如何在WanSwap上提供流动性)，你就可以开始挖矿，并从中收获一些乐趣。

@@ -26,11 +26,13 @@ The alternative option to obtain an NFT Booster is by locking up your ZOO tokens
 *   15 Days
 *   30 Days
 
+Staking is possible in all 3 pools (2,15,30 day) at the same time.  It's not possible to stake multiple times in the same pool.
+
 <div style={{marginTop:30}}>
 ![](/docs/image15.png)
 </div>
 
-Once you have staked your ZOO tokens, a countdown timer will be visible, displaying the remaining time left until your ZOO is returned and you can claim the gold chest .
+Once you have staked your ZOO tokens, a countdown timer will be visible, displaying the remaining time left until your ZOO is returned and you can claim the gold chest.
 
 <div style={{marginTop:30}}>
 ![](/docs/image18.png)

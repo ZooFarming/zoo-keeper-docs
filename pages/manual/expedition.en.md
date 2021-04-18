@@ -30,7 +30,7 @@ The alternative option to obtain an NFT Booster is by locking up your ZOO tokens
 ![](/docs/image15.png)
 </div>
 
-Once you have staked your ZOO tokens, a countdown timer will be visible, displaying the remaining time left until you can claim the gold chest.
+Once you have staked your ZOO tokens, a countdown timer will be visible, displaying the remaining time left until your ZOO is returned and you can claim the gold chest .
 
 <div style={{marginTop:30}}>
 ![](/docs/image18.png)

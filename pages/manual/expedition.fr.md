@@ -26,11 +26,13 @@ Une seconde option pour obtenir un booster NFT sera de verrouiller vos tokens ZO
 *   15 jours
 *   30 jours
 
+Il est possible de verrouiller vos tokens ZOO dans les trois pools en même temps (2, 15 et 30 jours) mais seulement un verrouillage par pool à la fois.
+
 <div style={{marginTop:30}}>
 ![](/docs/image15.png)
 </div>
 
-Une fois vos tokens ZOO ajoutés et verrouillés, un compte à rebours sera visible, affichant le temps restant pour pouvoir obtenir le coffre d'or.
+Une fois vos tokens ZOO ajoutés et verrouillés, un compte à rebours sera visible, affichant le temps restant pour pouvoir obtenir le coffre d'or. Il est à noter que lorsque le temps imparti est écoulé vos tokens ZOO vous sont restitués.
 
 <div style={{marginTop:30}}>
 ![](/docs/image18.png)

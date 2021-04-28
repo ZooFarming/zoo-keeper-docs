@@ -45,7 +45,7 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 
 ## Insights
 
-public/ZK Insights 1.png
+![](/public/ZK Insights 1.png)
 
 The Insights Page is a feature that adds several nifty sets of statistics for you to explore.
 

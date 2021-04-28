@@ -1,0 +1,130 @@
+# SSS
+
+## WANSWAP NEDİR ?
+
+Wanwap otomatik market yapıcı ile oluşturulmuş bir merkeziyetsiz borsadır. Oldukça popüler olan [Uniswap](https://uniswap.org/) modelinden esinlenilmiştir ve Wanchain blokzinciri üzerinde oluşturulmuştur. Klasik merkeziyetsiz borsalara ek olarak, WanSwap ayrıca Sushiswap gibi projelerde de görebileceğiniz likidite farmı özelliğine sahip. Wanswap Wanchain'in çapraz zincir(cross-chain) özelliklerinden tamamiyle yararlanarak birçok blokzincir üzerinde alım-satım(trade) yapmaya imkan veren wanToken'ları kullanır. Bu tokenlardan bazıları şunlardır: wanEOS, wanETH, wanUSDT wanXRP wanBTC.... 
+
+WanSwap'ın normal alım satım işlevleri direkt olarak Uniswap kodlarından oluşuyor. Likidite sağlayıcıları alım-satım çiftlerini likidite sağlamaya teşvik etmek için onlara sağladıkları likidite çifti üzerinde swap yapan kullanıcıların işlemlerinden komisyon verilir. 
+
+Sushiswap'a benzer olarak ve ek olarak, Wanswap ayrıca "farmlama" sayfasına sahiptir ve bu sayfada likidite sağlamaya teşvik etmek için kullanıcılara  WANSWAP platformunun tokenı olan $WASP ödülü verir.
+
+## Likidite nasıl eklenir ?
+
+Aşağıdaki resimde yukarıdaki menüde gördüğünüz ‘Pool’, sayfasında WanSwap'a likidite ekleyebilirsiniz. Bir önceki bölümde, kullanıcıların bu likidite havuzları sayesinde swap yaptığını söylemiştik. Likidite havuzuna herhangi bir kullanıcı katkı yapabilir. Likidite havuzuna katkı yaparak , kullanıcılar havuzun bir bölümüne sahip olur ve bu sayede havuz üzerinde gerçekleşen swap işlemlerinden komisyon ücreti kazanabilirler.Likidite çifti oluşturabilir veya varolan bir çifte ekleme yapabilirsiniz.
+
+![](/docs/image17.png)
+
+Bir sonraki fotoğraf "Likidite Ekleme" arayüzünü gösterir. Kullanıcılar sadece birkaç tık ile likidite ekleyebilirler. Sonrasında , likidite sağlayıcıları WSLP likidite token'ı elde ederler. Bu token'lar havuz üzerindeki paylaşım miktarını temsil eder ve farm'a koymaya ve farm'dan çekmeye yarar.
+
+![](/docs/image14.png)
+
+WSLP token'larınızı farmlamak için yatırdığınızda yatırdığınız likiditenin ayrıntıları havuz sayfasında gözükmez. Eğer oluşturduğunuz likidite çiftini farma koymadıysanız ve burada görüntüleyemiyorsanız, onu aşağıdaki butonu kullanarak içe aktarabilirsiniz.(IMPORT) İçe aktara basın.
+
+![](/docs/image6.png)
+
+Gerekli bilgileri girin. Eğer her şey doğruysa sağladığınız likiditenin bilgilerini göreceksiniz. Bu bilgileri "Havuz" (pool) sayfasında görmek için "Bu havuzu yönet"e (Manage this pool) basın.
+
+![](/docs/image12.png)
+
+![](/docs/image5.png)
+
+Sağladığınız tokenlar en başta eklediğinize göre değişiklik gösterebilir.
+
+## WSLP Token
+
+WanSwap likidite havuzuna likidite sağladığınızda, karşılığında ne kadar likidite sağladığınızı ifade eden WSLP token'ı elde edersiniz. Havuz üzerinde bir swap işlemi gerçekleştiğinde burdan elde edilen komisyon havuzdaki tüm paydaşlara sahip oldukları token miktarı oranında paylaştırılır. Eğer havuzdaki varlığınızı havuzdan çekerseniz, kazandığınız komisyonları elde eder fakat tokenlarınızı kaybedersiniz.
+
+WanSwap likidite havuzu tokenı WSLP'dir, WanSwap'ta WSLP tokenını başta havuza sağladığınız varlıkları geri çekmek için kullanabilirsiniz veya WSLP platformun kendi token'ı olan WASP'ı kazmaya yarar(mining governance token).
+
+## Uyumlu Cüzdanlar
+
+Zookeeper şu cüzdanlarla uyumludur [WanMask](https://wanmask.io/) (masaüstü), [WanWallet](https://wanchain.org/getstarted) (masaüstü & mobil), and [MetaMask](https://metamask.io/) (masaüstü & mobil) 
+
+## Token Ekonomisi
+
+ZooKeeper Dinamik Piyasa Değeri stratejisini kullanır.Piyasa değerinin dinamik olması Zoo tokenlarının yakılması ve zookeeper platformunda satışa sunulan NFT'lerin kullanılmasının bir sonucudur.
+
+ZOO tokenlarının dağıtımı her block 10 ZOO olmak üzere 24 aya yayılmıştır. ZOO tokenlarının asla ön-satışı veya ön-kazım işlemi olmayacaktır. 
+
+<span style={{textDecoration:'underline'}}>Token Tahsisi Değerlendirmesi</span>:
+
+<div style={{fontSize:16,marginLeft:30,marginTop:20}}>
+<div>77% farm havuzları and ve aşağıdaki dinamik hesaplamaya bağlıdır</div>
+<div>9% Zookeeper kuruluşu için saklanacaktır</div>
+<div>8% pazarlama ve marketinge adanacaktır</div>
+<div>3% danışmanlara ayrılacaktır</div>
+<div>3% topluluk tarafından seçilecek wanToken'ları satın almak için kullanılacak</div>
+</div>
+
+$ZOO dinamik piyasa değerine sahip olduğu için ve NFT'ler aracılığı ile sağlanan boostların ve kilitleme sürelerinin denklemi etkilemesinden dolayı, kesin olarak bir piyasa değerinden söz edemiyoruz. Bu değişkenler uygulama esnasında açıklığa kavuşacak, şimdilik belirsiz değişkenlerdir. Bu nedenle, minimum ve maksimum piyasa değerimiz var.  24 ayın sonunda piyasa değerinin bu iki değerden biri olacağını söylemek imkansız fakat piyasa değeri bu iki değer arasında bir yerde olacak. 
+
+* Minimum $ZOO: 155,157,120
+* Maximum $ZOO: 393,059,532.10
+
+Bu sayıların nasıl hesaplandığını görmeniz için, mediumda detaylı bir makale paylaştık. [resmi Medium hesabı](https://medium.com/zookeeper-blog/dynamic-market-cap-734390926c12)
+
+## Topluluk Soruları
+
+<div style={{marginTop:20}}>
+    <table>
+        <thead>
+            <tr>
+                <th width="30%" align="left" valign="top">Question</th>
+                <th align="left" valign="top">Answer</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="left" valign="top">Dokümana göre WSLP token'ı kullanarak ZooKeeper'da farm yapabilirim.Bu ne anlama geliyor? Ve WSLP Nedir?</td>
+                <td align="left" valign="top">Bir havuza likidite sağladığınızda, WSLP tokenınız WASP/WAN havuzundaki paylaşımınızı belirtir.  
+                    Sadece bu tokenları (Zookeeper'dan önce) kullanarak WASP farmlayabilirdiniz, fakat şimdi aynı WSLP tokenlarını ZooKeeper uygulamasında da kullanabilrsiniz.  
+                    Yani sadece WASP farmlamak yerine, aynı anda hem WASP hem de ZOO farmlayabilirsiniz.
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Boost ödülleri sadece ZOO token için mi geçerli?</td>
+                <td align="left" valign="top">Evet, bütün boost ödülleri sadece ZOO için geçerlidir.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Eğer WSLP'nin üstüne tekrar ekleme yaparsam kilitleme süresi sıfırlanır mı?</td>
+                <td align="left" valign="top">Eğer ekleme yapmak istiyorsanız bunda sorun yok. Ekleme yaparsanız günler sıfırlanmaz. Fakat süreyi arttırmak isterseniz bunu yapabilirsiniz.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Eğer WSLP'nin üstüne tekrar ekleme yaparsam kilitleme süresi azalır mı?</td>
+                <td align="left" valign="top">Kilitleme süresini sadece bir NFT ile nft üzerinde yazan % yüzdelik miktar kadar azaltabilirsiniz. Aktifleştirdiğiniz NFT'yi sonrasında daha büyük yüzdeki başka bir NFT ile değiştirebilirsiniz.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Bu proje Wanchain tarafından mı oluşturuldu?</td>
+                <td align="left" valign="top">ZooKeeper, bazı Wanswap üyelerinin tecrübeli topluluk üyelerinin yardımıyla oluşturuldu ve desteklendi. Geliştirme sürecinde Wanchain geliştiricilerinin desteğine ihtiyaç duyuldu.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Eklediğim likiditeyi WanSwap'tan çekmek zorunda mıyım?</td>
+                <td align="left" valign="top">Hayır, likidite WanSwap'ta kalır. Bu konunun anlaşılması önemli. Sadece wanswap farmından çekmelisiniz, likidite çekmemelisiniz. </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">WANSWAP/WASP'ın ZOO'dan nasıl yarar sağlayacağını merak ediyorum</td>
+                <td align="left" valign="top">ZooKeeper'a eklenen bütün likiditeler Wanswap üzerinden gerçekleşecek. ZooKeeper ekosisteme yeni bir para birimi ekliyor. (katma değer) ve bu nedenle ilgi çekerek yeni kullanıcılar getiriyor.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Kontratlar denetlendi mi?</td>
+                <td align="left" valign="top">Resmi denetleme şu an HAECHI tarafından (tahmini bitiş süresi Mayıs Ortası 2021) yapılıyor. Halihazırdaki kod Wanchain ekibi tarafından denetlendi.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Eğer altın sandık kazanmak için 2 gün boyunca X kadar ZOO stake edersem(zoo kilitlemek), 2 günlük süre bittiğinde farklı bir altın sandık daha kazanmak için 2 gün daha tekrar zoo stake etmem mi gerekecek?</td>
+                <td align="left" valign="top">Evet. Stake edilmesi gereken zoo miktarı dinamik ve her an değişebilmesine karşın, sizin sadece o an gereken kadarki miktarı sağlamanız gerekecek.</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">Bir havuzdaki NFT'yi değiştirebilir veya kaldırabilir miyim?</td>
+                <td align="left" valign="top">Eğer WSLP tokenlarınız kilitli değilse NFT'yi kaldırmanın iki yolu vardır. NFT'yi farklı bir NFT ile değiştirmek veya WSLP tokenlarınızı o farm havuzundan kaldırmak. Eğer NFT kullandığınız havuzdaki WSLP tokenlarınızı kilitlediyseniz, değiştirmenin tek yolu farklı bir NFT kullanmaktır.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+## Takım & Partnerler
+
+![](/teampartneers.png)
+
+ZooKeeper ekibi is comprised of yerel WanSwap topluluğu üyeleri ve Wanchain geliştiricilerinden oluşur.
+
+Şu anki partnerlerimiz: Wanchain, Finnexus and WanSwap.

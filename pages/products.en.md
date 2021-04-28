@@ -45,8 +45,6 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 
 ## Insights
 
-https://github.com/ZooFarming/zoo-keeper-docs/blob/1c5187efd52a32de71204afb2bed7d648ea22f87/public/ZK%20Insights%201.png
-
 The Insights Page is a feature that adds several nifty sets of statistics for you to explore.
 
 ## ZOO Safari Staking (coming soon phase II)

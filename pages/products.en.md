@@ -43,6 +43,12 @@ The Safe is an area where the user’s unused NFT boost cards are displayed. Not
 
 [Learn more about My Safe](/manual/safe)
 
+## Insights
+
+![](/ZK Insights 1.png)
+
+The Insights Page is a feature that adds several nifty sets of statistics for you to explore.
+
 ## ZOO Safari Staking (coming soon phase II)
 
 ![](/phase2/staking_safari.png)

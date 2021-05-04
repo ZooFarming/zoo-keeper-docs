@@ -10,6 +10,7 @@ There are in total four (4) voting proposal categories divided in two parts.
 ## Team Proposals
 
 1) Major Proposal initiated by the core team: 
+
 This requires a 50% approval from the community and 1% (note that this will be restored to 10% at the end of May, once Wanchain enables the snapshot to take into account staked ZOO tokens as well) of eligible votes (circulating supply) in order to be implemented. This means that all addresses taking part in the vote need to account for at least 1% of the total circulating supply at time of snapshot. This type of proposal will always be a Boolean one (true/false, yes/no, BTC/ETH …)
 
 2) Minor Proposal initiated by the core team: 

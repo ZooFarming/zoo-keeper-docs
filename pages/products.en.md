@@ -51,7 +51,7 @@ The Insights Page is a feature that adds several nifty sets of statistics for yo
 
 [Learn more about Insights](/manual/insights)
 
-## ZOO Safari Staking (coming soon phase II)
+## ZOO Safari Staking
 
 ![](/phase2/staking_safari.png)
 

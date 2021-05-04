@@ -4,7 +4,9 @@ La page de l'Expédition affiche plusieurs façons de dépenser ou de vérrouill
 
 Peu importe comment vous l'obtenez, un coffre d'or contiendra toujours un booster NFT.
 
-Un coffre d'argent, cependant, vous octroiera 1 chance sur 10 d'obtenir un booster NFT. Un NFT obtenu à partir d'un coffre en argent, ne sera pas de la même classe que venant d'un coffre d'or.
+Un coffre d'argent, cependant, vous octroiera 1 chance sur 10 d'obtenir un booster NFT. 
+
+Les NFTs sont distribués au hasard parmi les coffres, mais les plus rares NFTs ne pourront être obtenus qu'à partir des coffres d'or.
 
 ## Acheter coffres d'or/d'argent :
 

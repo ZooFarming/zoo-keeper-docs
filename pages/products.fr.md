@@ -43,7 +43,7 @@ Le Coffre-Fort est l'endroit où les cartes de boost NFT non-utilisées sont sto
 
 [En savoir plus sur Mon Coffre-Fort](/manual/safe)
 
-## ZOO Safari Staking (bientôt disponible phase II)
+## ZOO Safari Staking
 
 ![](/phase2/staking_safari.png)
 

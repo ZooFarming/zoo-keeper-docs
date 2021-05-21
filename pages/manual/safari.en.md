@@ -17,8 +17,6 @@ Once a pool is staked, the user still has the option to top up the existing bala
 </center>
 
 It is important to note that:
-there is no limit on how much ZOO you can stake in each pool
-there are no extra fees (other than gas) for entering or exiting a pool
-past season pools can be found by turning off the “show active only” filter option (as they become greyed out once finished)
-
-
+*   there is no limit on how much ZOO you can stake in each pool
+*   there are no extra fees (other than gas) for entering or exiting a pool
+*   past season pools can be found by turning off the “show active only” filter option (as they become greyed out once finished)

@@ -1,35 +1,23 @@
-# The Expedition
+# The Safari
 
-The expedition page displays multiple ways to spend or stake ZOO tokens to obtain a "Chest". There are two types of chests: Gold and Silver.
+In the Safari section the user can decide to stake ZOO to get rewards. Each pool allows the user to earn the designated coin/token: one permanent pool will stake ZOO to earn ZOO and one pool to stake ZOO and earn a coin/token chosen by the community.
 
-No matter how you manage to obtain it, a gold chest will always contain an NFT Booster. 
+There will always be only two pools active in The Safari, following cycles. Each cycle (called “Season”) will last for four weeks and will include a one week period, for the community to vote for the token/coin of the next Season.
 
-A silver chest, however, will have a 1 in 10 chance of winning an NFT Booster. 
+In order to join a pool, the user can click on the “stake ZOO” button (a), select the amount of ZOO to stake (b) (or hit MAX if all), and Approve and Validate. A timer will also be displayed to indicate the time left for this Season to end (c).
 
-NFT are distributed randomly between chests but the rarest NFTs can only be found in Gold chests.
+<center style={{marginTop:10}}>
+![](/ZKSafari2.png)
+</center>
 
-## Buy Gold/Silver Chests:
+Once a pool is staked, the user still has the option to top up the existing balance at any time. A button will then appear to be able to select this option (a), as well as to claim your rewards (b) or to withdraw your ZOO tokens (c).
 
-<div style={{float:'left',marginTop:30}}>
-![](/docs/image10.png)
-</div>
-<div style={{marginTop:30}}>
-![](/docs/image19.png)
-</div>
+<center style={{marginTop:10}}>
+![](/ZKSafari3.png)
+</center>
 
-The option to purchase chests is self-explanatory. You can buy one of either at a time. If an NFT Booster is awarded (remember, silver has a 1 in 10 chance), purchasing will automatically open and add the NFT Booster card to "My Safe".
+It is important to note that:
+*   there is no limit on how much ZOO you can stake in each pool
+*   there are no extra fees (other than gas) for entering or exiting a pool
+*   past season pools can be found by turning off the “show active only” filter option (as they become greyed out once finished)
 
-## Staking ZOO for a Gold Chest:
-<div style={{marginTop:30}}>
-![](/docs/stackingchest01.png)
-</div>
-The alternative option to obtain an NFT Booster is by locking up your ZOO tokens for a set amount of time:
-*   2 Days
-*   15 Days
-*   30 Days
-
-Staking is possible in all 3 pools (2,15,30 day) at the same time.  It's not possible to stake multiple times in the same pool.
-
-<div style={{marginTop:30}}>
-![](/docs/image15.png)
-</div>

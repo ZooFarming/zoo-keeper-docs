@@ -53,7 +53,7 @@ The Insights Page is a feature that adds several nifty sets of statistics for yo
 
 ## ZOO Safari Staking
 
-![](public/ZK Safari.jpg)
+![](/ZK Safari.jpg)
 
 Safari pools are staking pools where the rewards received are chosen by the community.  This was planned from the very start and is possible because 3% of the minted $ZOO tokens as shown in the [Tokenomics FAQ Section](/faq#tokenomics) are set aside to buy the communities wanToken they voted for.
 

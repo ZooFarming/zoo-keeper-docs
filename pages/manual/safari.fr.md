@@ -18,3 +18,4 @@ Il est important de noter que:
 *   il n'y a aucune limite sur le montant de ZOO possible à verrouiller par pool.
 *   il n'y a pas de frais supplémentaires (autres que les frais de transaction) associés pour entrer et/ou sortir d'une pool.
 *   les saisons passées sont visibles en désactivant l'option "voir seulement actives" en haut de l'écran (elles deviennent grisées une fois terminées).
+*   il est possible de voir le montant des récompenses hebdomadaires grâce à l'icône "?".

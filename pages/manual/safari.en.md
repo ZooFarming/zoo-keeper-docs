@@ -10,11 +10,11 @@ In order to join a pool, the user can click on the “stake ZOO” button (a), s
 ![](/ZKSafari2.png)
 </center>
 
-Once a pool is staked, the user still has the option to top up the existing balance at any time. A button will then appear to be able to select this option (a), as well as to claim your rewards (b) or to withdraw your ZOO tokens (c).
+Once a pool is staked, the user still has the option to top up the existing balance at any time. A button will then appear to be able to select this option (a), as well as to claim rewards (b) or to withdraw ZOO tokens (c).
 
 ![](/ZKSafari3.jpg)
 
 It is important to note that:
-*   there is no limit on how much ZOO you can stake in each pool
+*   there is no limit on how much ZOO to stake in each pool
 *   there are no extra fees (other than gas) for entering or exiting a pool
 *   past season pools can be found by turning off the “show active only” filter option (as they become greyed out once finished)

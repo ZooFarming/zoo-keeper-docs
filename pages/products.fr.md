@@ -49,6 +49,8 @@ Le Coffre-Fort est l'endroit où les cartes de boost NFT non-utilisées sont sto
 
 Les Safari pools sont des pools où les récompenses reçues seront choisies par la communauté. Ceci est prévu depuis le début et est rendu possible grace aux 3% de tokens $ZOO crées comme expliqué dans la section [FAQ Tokenomics](/faq#tokenomics) qui ont été mis de coté pour acheter les wanTokens votés par la communauté.
 
+[En savoir plus sur Le Safari](/manual/safari)
+
 ## Crafting (bientôt disponible phase II)
 
 ![](/phase2/crafting.png)

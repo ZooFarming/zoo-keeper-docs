@@ -42,7 +42,7 @@ Once you have staked your ZOO tokens, a countdown timer will be visible, display
 
 ## Dynamic Pricing Mechanics
 
-Chest prices are set dynamically with a decrease of 1% in price every hour (no chest purchases) and increase of 1% every time a chest is bought, or when ZOO tokens are staked. 
+Chest prices are set dynamically with a decrease of 1% in price every hour (no chest purchase or ZOO staked for chest) and increase of 1% every time a chest is bought, or when ZOO tokens are staked for a chest. 
 
 <span style={{textDecoration:'underline'}}>Price Rules:</span>
 

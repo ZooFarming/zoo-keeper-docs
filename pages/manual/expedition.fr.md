@@ -42,7 +42,7 @@ Une fois vos tokens ZOO ajoutés et verrouillés, un compte à rebours sera visi
 
 ## Mécaniques de prix dynamique
 
-Les prix des coffres sont déterminés de facon dynamique avec une diminution de 1% par heure si aucun coffre n'est acheté et une augmentation de 1% chaque fois qu'un coffre est acheté, ou que des tokens ZOO sont verrouillés. 
+Les prix des coffres sont déterminés de facon dynamique avec une diminution de 1% par heure si aucun coffre n'est acheté (ou aucun ZOO n'est verrouillé dans les Expéditions) et une augmentation de 1% chaque fois qu'un coffre est acheté, ou que des tokens ZOO sont verrouillés pour un coffre. 
 
 <span style={{textDecoration:'underline'}}>Price Rules:</span>
 

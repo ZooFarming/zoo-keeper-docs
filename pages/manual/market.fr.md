@@ -6,6 +6,9 @@ Le Marché est le lieu où vous pouvez acheter des boosters NFTs que les autres 
 Encore une fois, les utilisateurs peuvent choisir différentes options de filtrage dans la liste de boosters disponibles et afficher seulement ceux qui réunissent les caractéristiques recherchées par l'utilisateur.
 
 Les ordres de vente sont valides pendant 14 jours par défaut et seront automatiquement retirés après cette période.
+
+Il est à noter qu'un mécanisme de brûlage à été mis en œuvre lors d'achats/ventes de NFTs : 1% du prix fixé par l'utilisateur sera automatiquement ajouté au système de brûlage après chaque achat confirmé.
+
 ## Vendre un NFT
 *   Allez dans Mon Coffre-Fort
 *   Placez le curseur sur le NFT que vous souhaitez vendre

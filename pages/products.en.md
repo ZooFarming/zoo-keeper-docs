@@ -59,11 +59,12 @@ Safari pools are staking pools where the rewards received are chosen by the comm
 
 [Learn more about Safari](/manual/safari)
 
+## Zoorena (coming soon phase II)
+
+![](/Zoorena.png)
+
 ## Crafting (coming soon phase II)
 
 ![](/phase2/crafting.png)
 
-## Gambling (coming soon phase II)
-
-![](/phase2/boxing.png)
 

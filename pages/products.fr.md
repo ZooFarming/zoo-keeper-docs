@@ -51,11 +51,12 @@ Les Safari pools sont des pools où les récompenses reçues sont choisies par l
 
 [En savoir plus sur Le Safari](/manual/safari)
 
+## Zoorena (bientôt disponible phase II)
+
+![](/Zoorena.png)
+
 ## Crafting (bientôt disponible phase II)
 
 ![](/phase2/crafting.png)
 
-## Paris (bientôt disponible phase II)
-
-![](/phase2/boxing.png)
 

@@ -59,11 +59,12 @@ Kasa kullanıcıların kendine ait NFT Boost Kartlarını görüntülediği yerd
 
 Safari havuzları ödüllerin topluluk tarafından seçildiği stake havuzlarıdır. Bu en başından beri planlandı ve arzın %3'ü [Token Ekonomisi](/faq#tokenomics)'nde de belirtildiği gibi topluluğun istediği token'ları almak için kullanılacak.
 
+## Zoorena (Faz II'de gelecek)
+
+![](/Zoorena.png)
+
 ## Birleştirme (Faz II'de gelecek)
 
 ![](/phase2/crafting.png)
 
-## Kumar (Faz II'de gelecek)
-
-![](/phase2/boxing.png)
 

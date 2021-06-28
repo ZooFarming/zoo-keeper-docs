@@ -45,11 +45,12 @@
 
 ![](/phase2/staking_safari.png)
 
+## Zoorena (coming soon phase II)
+
+![](/Zoorena.png)
+
 ## 卡牌合成 (coming soon phase II)
 
 ![](/phase2/crafting.png)
 
-## 对战系统 (coming soon phase II)
-
-![](/phase2/boxing.png)
 

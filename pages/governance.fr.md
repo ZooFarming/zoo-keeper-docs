@@ -10,7 +10,7 @@ Les propositions s'étendent sur une période de 3 à 5 jours durant laquelle la
 
 1) Proposition majeure initiée par l'équipe principale :
 
-Cela requiert 50% d'approbation par la communauté et 10% des votes éligibles (fonds en circulation) pour être mise en place. Cela veut dire que toutes les adresses prenant part au vote doivent constituer au moins 10% du total des fonds en circulation au moment du Snapshot. Ce type de proposition sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
+Cela requiert 50% d'approbation par la communauté et 5% des votes éligibles (fonds en circulation) pour être mise en place. Cela veut dire que toutes les adresses prenant part au vote doivent constituer au moins 5% du total des fonds en circulation au moment du Snapshot. Ce type de proposition sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
 
 2) Proposition mineure initiée par l'équipe principale :
 
@@ -21,7 +21,7 @@ Cette proposition offre à la communauté une question à choix multiples. Le me
 
 3) Proposition majeure initiée par la communauté :
  
-Une fois qu'une proposition a été initiée, l'équipe devra confirmer si l'éxecution de la proposition est techniquement possible ou non, quel que soit l'avis de l'équipe sur la proposition (la justification technique devra être partagée avec le créateur de la proposition, et avec la communauté si nécessaire). Après confirmation de l'aspect technique, les votes peuvent commencer. Pour que la propositon puisse être validée, 55% d'approbation venant de la communauté ainsi que 10% des votes éligibles (des fonds en circulation) sont nécessaires. Ici aussi, ce sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
+Une fois qu'une proposition a été initiée, l'équipe devra confirmer si l'éxecution de la proposition est techniquement possible ou non, quel que soit l'avis de l'équipe sur la proposition (la justification technique devra être partagée avec le créateur de la proposition, et avec la communauté si nécessaire). Après confirmation de l'aspect technique, les votes peuvent commencer. Pour que la propositon puisse être validée, 55% d'approbation venant de la communauté ainsi que 5% des votes éligibles (des fonds en circulation) sont nécessaires. Ici aussi, ce sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
 
 4) Proposition mineure initiée par la communauté :
 

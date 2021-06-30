@@ -11,7 +11,7 @@ There are in total four (4) voting proposal categories divided in two parts.
 
 1) Major Proposal initiated by the core team: 
 
-This requires a 50% approval from the community and 10% of eligible votes (circulating supply) in order to be implemented. This means that all addresses taking part in the vote need to account for at least 1% of the total circulating supply at time of snapshot. This type of proposal will always be a Boolean one (true/false, yes/no, BTC/ETH …)
+This requires a 50% approval from the community and 10% of eligible votes (circulating supply) in order to be implemented. This means that all addresses taking part in the vote need to account for at least 10% of the total circulating supply at time of snapshot. This type of proposal will always be a Boolean one (true/false, yes/no, BTC/ETH …)
 
 2) Minor Proposal initiated by the core team:
 

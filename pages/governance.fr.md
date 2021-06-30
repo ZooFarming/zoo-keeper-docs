@@ -19,7 +19,13 @@ Cette proposition offre à la communauté une question à choix multiples. Le me
 
 ## Les propositions de la communauté
 
-Proposer une action de gouvernance exige que votre adresse contienne au moins 0.2% des fonds ZOO en circulation. Une fois qu'une proposition a été initiée, l'équipe devra confirmer si l'éxecution de la proposition est techniquement possible, quel que soit l'avis de l'équipe sur la proposition (la justification technique devra être partagée avec le créateur de la proposition, et avec la communauté si nécessaire). Après confirmation de l'aspect technique, les votes peuvent commencer. Pour que la propositon puisse être validée, 55% d'approbation venant de la communauté ainsi que 10% des votes éligibles (des fonds en circulation) sont nécessaires.
+3) Proposition majeure initiée par la communauté :
+ 
+Une fois qu'une proposition a été initiée, l'équipe devra confirmer si l'éxecution de la proposition est techniquement possible ou non, quel que soit l'avis de l'équipe sur la proposition (la justification technique devra être partagée avec le créateur de la proposition, et avec la communauté si nécessaire). Après confirmation de l'aspect technique, les votes peuvent commencer. Pour que la propositon puisse être validée, 55% d'approbation venant de la communauté ainsi que 10% des votes éligibles (des fonds en circulation) sont nécessaires. Ici aussi, ce sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
+
+4) Proposition mineure initiée par la communauté :
+
+Cette proposition fonctionne de la même façon que la propostion 2, en offrant à la communauté plusieurs choix de vote. Ici aussi, le meilleur pourcentage de réponses sera le choix retenu à la fin de la période de vote.
 
 
 Une fois qu'une proposition a été validée, elle sera appliquée sous peu. Pour soumettre une proposition, rendez-vous sur http://bbs.zookeeper.finance pour discuter avec la communauté et sur https://vote.wandevs.org/#/zookeeper pour créer une proposition.  

@@ -3,12 +3,18 @@
 
 ![](/governance.png)
 
-Les propositions s'étendent sur une période de 3 à 5 jours durant laquelle la communauté peut soumettre des votes. Il y a deux catégories possibles : ceux initiés par l'équipe et ceux initiés par la communauté. 
+Les propositions s'étendent sur une période de 3 à 5 jours durant laquelle la communauté peut soumettre des votes à l'aide des tokens Zoo. Il y a quatre (4) catégories de vote possibles au total, divisées en deux parties.
 
 
 ## Les propositions de l'équipe
 
-Les propositions de l'équipe exigent une approbation à 50% de la part de la communauté et à 10% de la part des votes éligibles (des fonds en circulation), cela signifie que toutes les adresses qui votent doivent compter pour au moins 10% du total de fonds en circulation.  
+1) Proposition majeure initiée par l'équipe principale :
+
+Cela requiert 50% d'approbation par la communauté et 10% des votes éligibles (fonds en circulation) pour être mise en place. Cela veut dire que toutes les adresses prenant part au vote doivent constituer au moins 10% du total des fonds en circulation au moment du Snapshot. Ce type de proposition sera toujours une question fermée à choix unique (oui/non, vrai/faux, BTC/ETH, etc...)
+
+2) Proposition mineure initiée par l'équipe principale :
+
+Cette proposition offre à la communauté une question à choix multiples. Le meilleur pourcentage de réponses sera le choix retenu à la fin de la période de vote.  
 
 
 ## Les propositions de la communauté

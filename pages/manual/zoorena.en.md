@@ -79,8 +79,8 @@ Note: Lottery tickets can not be carried over into other events nor can they be 
 
 The ZooPorter is ZooKeeper’s pixelated Parrot that will commentate throughout the event, and report on the action in real-time. The ZooPorter’s primary purpose is to announce results of both: 
 
-fight events - during which clans lose members and points;
-wager events - the winning option for each wager type.
+*   fight events - during which clans lose members and points;
+*   wager events - the winning option for each wager type.
 
 Additionally, the ZooPorter will also comment on the official Telegram channel before the fight to provide extra information (e.g. remaining time before fight starts, number of NFTs attached, etc) and will also announce lottery ticket winners once known.
 

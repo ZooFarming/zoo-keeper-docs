@@ -59,9 +59,13 @@ Safari pools are staking pools where the rewards received are chosen by the comm
 
 [Learn more about Safari](/manual/safari)
 
-## Zoorena (coming soon phase II)
+## ZooRena
 
 ![](/Zoorena.png)
+
+ZooRena is a feature in which users can join one of two clans and receive prizes in the process. Numerous Wagers are also available, enabling new ways of earning extra chests.
+
+[Learn more about ZooRena](/maunal/zoorena)
 
 ## Crafting (coming soon phase II)
 

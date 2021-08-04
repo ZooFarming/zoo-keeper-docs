@@ -61,7 +61,7 @@ Safari pools are staking pools where the rewards received are chosen by the comm
 
 ## ZooRena
 
-![](/Zoorena.png)
+![](/Zoorena.jpg)
 
 ZooRena is a feature in which users can join one of two clans and receive prizes in the process. Numerous Wagers are also available, enabling new ways of earning extra chests.
 

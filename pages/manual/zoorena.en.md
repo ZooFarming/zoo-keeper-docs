@@ -61,10 +61,12 @@ Note: 50% of the wagers placed will be burned, and the remaining 50% are added t
 ![](/ZooRena3.png)
 
 Lottery tickets will be distributed to users who join a clan, and also when taking part in wager events. There are multiple ways in which a user can accumulate Lottery tickets.
-Users will receive three (3) Lottery tickets when they pay the entry fee;
-Users will receive tickets according to whether they make a Silver Chest or Gold Chest wager, but also according to the specific wager type selected (1:2, 1:3, etc);
-The number of tickets received is displayed next to each wager;
-Gold Chest wagers will offer approximately 10 times more lottery tickets than Silver Chest ones
+
+*   Users will receive three (3) Lottery tickets when they pay the entry fee;
+*   Users will receive tickets according to whether they make a Silver Chest or Gold Chest wager, but also according to the specific wager type selected (1:2, 1:3, etc);
+*   The number of tickets received is displayed next to each wager;
+*   Gold Chest wagers will offer approximately 10 times more lottery tickets than Silver Chest ones
+
 Note that the three (3) winning Lottery tickets from the victorious clan will be selected after the battle ends (this can occur up to several hours after the conclusion of a match) and the jackpot will be distributed evenly among these tickets.
 
 The winning Lottery tickets will appear as glowing in the corresponding section.

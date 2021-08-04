@@ -51,8 +51,7 @@ The user will also have two different options for each wager type selection:
 
 The type of chest reward is based on the selected chest option. For example, a gold chest wager, if won, will always reward you with a gold chest. Chests won can then manually be claimed where displayed.
 
-Note that the user’s selected clan does not need to be victorious to successfully win a wager. Indeed, all wagers are independent from the outcome of the match.
-
+Remember that the user’s selected clan does not need to be victorious to successfully win a wager. Indeed, all wagers are independent from the outcome of the match.
 The outcome of a wager is completely random. 
 
 Note: 50% of the wagers placed will be burned, and the remaining 50% are added to the Jackpot. (the entry fee is considered a wager as well)

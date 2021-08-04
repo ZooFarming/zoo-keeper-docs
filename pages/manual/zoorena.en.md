@@ -40,14 +40,12 @@ An event can have several different outcomes but will only ever result in one be
 ![](/ZooRena2.png)
 
 Wagers must be placed before the event starts (up to 1 minute before) and cannot be placed during the battle. The cost (in $ZOO) to take part is dynamic and will vary depending on two factors:
-
 *   The probability of a prize being issued (1:2, 1:3, 1:4, etc)
 *   The current market price of a gold/silver chest is taken into account.
 
 e.g. A gold chest on a 1:4 wager will cost more $ZOO than a gold chest on a 1:10 wager.
 
 The user will also have two different options for each wager type selection: 
-
 *   A silver chest
 *   A gold chest
 

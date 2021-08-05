@@ -67,7 +67,7 @@ Note: 50% du montant des mises sera ajouté au système de brûlage et les autre
 
 ![](/ZooRena3.png)
 
-Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan et/ou qui mises sur les événements. Il y a plusieurs moyens d'accumuler des tickets de loterie.
+Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan et/ou qui misent sur les événements. Il y a plusieurs moyens d'accumuler des tickets de loterie.
 
 *   Trois (3) tickets sont donnés une fois le choix du clan effectué.
 *   Plusieurs tickets sont donnés lorsqu'une mise est placée et le nombre dépend s'il s'agit d'un coffre d'or ou d'argent mais aussi de la probabilité (1:2, 1:3, etc)

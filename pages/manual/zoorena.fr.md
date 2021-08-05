@@ -90,7 +90,7 @@ Le ZooPorteur est le perroquet de ZooKeeper qui commente les événements et don
 *   Les événements de combat - durant lesquels les points des équipes diminueront
 *   Les événements des mises - le résultat pour chaque type de mise
 
-Par ailleurs, le ZooPorteur commentera également sur la chaîne Telegram officielle de ZooKeeper et donnera des informations complémentaires avant le combat (ex: temps restant avant le combat, nombre de NFTs, etc), il anoncera aussi les trois tickets de loterie gagnants une fois sortis.
+Par ailleurs, le ZooPorteur commentera également sur la chaîne Telegram officielle de ZooKeeper et donnera des informations complémentaires avant le combat (ex: temps restant avant le combat, nombre de NFTs, etc), il annoncera aussi les trois tickets de loterie gagnants une fois sortis.
 
 Pour rejoindre la chaîne Telegram officielle de ZOoKeeper cliquez ici : https://t.me/zoofarming
 

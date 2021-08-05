@@ -79,7 +79,7 @@ Les trois (3) tickets gagnants seront sélectionnés à l'issue du combat parmi 
 Les tickets gagnants peuvent être trouvés dans la section correspondante et apparaissent rayonnants dans la liste.
 Le Jackpot est consitué de 50% des $ZOO des mises et 50% du prix d'entrée pour participer.
 
-Il est à noter que les tickets de loterie ne peuvent pas être réutilisés lors d'un prochain combat ou envoyé vers une adresse différente.
+Il est à noter que les tickets de loterie ne peuvent pas être réutilisés lors d'un prochain combat ou envoyés vers une adresse différente.
 
 ## Le ZooPorteur
 

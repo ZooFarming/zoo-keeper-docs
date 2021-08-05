@@ -61,13 +61,13 @@ Le type de coffre reçu en tant que récompense est toujours celui du coffre sé
 Il est important de souligner que le clan sélectionné par l'utilisateur ne doit pas forcément être victorieux pour gagner une mise. Toutes les mises placées sont donc indépendantes du résultat final du match.
 L'issue des mises est totalement aléatoire.
 
-Note: 50% du montant des mises sera ajouté au système de brûlage et les autres 50% ajoutés au total du Jackpot (le choix du clan étant aussi considéré comme une mise).
+Note : 50% du montant des mises sera ajouté au système de brûlage et les autres 50% ajoutés au total du Jackpot (le choix du clan étant aussi considéré comme une mise).
 
 ## La Loterie
 
 ![](/ZooRena3.png)
 
-Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan et/ou qui misent sur les événements. Il y a plusieurs moyens d'accumuler des tickets de loterie.
+Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan et/ou qui misent sur les événements. Il y a plusieurs moyens d'accumuler des tickets de loterie :
 
 *   Trois (3) tickets sont donnés une fois le choix du clan effectué.
 *   Plusieurs tickets sont donnés lorsqu'une mise est placée et le nombre dépend s'il s'agit d'un coffre d'or ou d'argent mais aussi de la probabilité (1:2, 1:3, etc)

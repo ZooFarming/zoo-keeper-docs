@@ -40,7 +40,7 @@ Une fois la bataille commencée, une barre s'affichera indiquant la Puissance NF
 
 Toutes les mises deviennent accessibles en cliquant sur "Ajouter une mise", une fois le clan choisi.
 Chaque match contient 9 types de mises.
-Chaque événement peut potentiellement se terminer de plusieurs façons mais seulement avec un seul résultat par combat. L'utilisateur peut voir toutes les mises et résultats possibles et placer une mise pour le résultat espéré.  
+Chaque événement peut potentiellement se terminer de plusieurs façons mais seulement avec un seul résultat par combat. L'utilisateur peut voir toutes les mises et résultats possibles et placer une mise sur le résultat espéré.  
 
 ![](/ZooRena2.png)
 

@@ -15,6 +15,8 @@ A bot, an extension of our beloved ZooPorter, will also be active on ZooKeeper�
 Upon entering the ZooRena, the main screen will display a countdown indicating the remaining time before the start of the next fight. 
 The user is invited to select which side they would like to join and must then pay a dynamic entry fee (1% of the current gold chest price). Once selected, a “Joined” banner will be added below your chosen clan’s name.
 
+![](/ZooRena5.png)
+
 At the beginning of every new contest, each clan will have 100 points by default. As the clans battle, they will reduce their opponent’s total score. The clan with the highest score when the contest concludes will be declared the winner. 
 Users from the winning clan will all receive a Silver chest to claim, as well as 3 chances (lottery tickets) to win the accumulated Jackpot. 
 
@@ -23,6 +25,8 @@ It is not possible for a contest to end in a draw.
 The option to access and read the rules is also available from the same screen.
 
 ## Boosting Clan Power
+
+![](/ZooRena6.png)
 
 Once the entry fee has been paid, the user has the option of adding Power Weight to their selected clan by attaching an NFT (only 1 NFT per user is allowed). 
 Attaching an NFT to a clan could be the key to success as it boosts chances to stand victorious at the end of the battle.

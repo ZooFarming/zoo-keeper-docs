@@ -13,12 +13,12 @@ Un bot qui représente le ZooPorteur (voir plus bas) sera aussi actif sur la cha
 ![](/ZooRena1.png)
 </center>
 
-En entrant dans ZooRena, l'écran principal montre un compte-à-rebours indiquant le temps restant avant le debut du prochain combat.
+En entrant dans ZooRena, l'écran principal montre un compte-à-rebours indiquant le temps restant avant le début du prochain combat.
 L'utilisateur peut alors choisir le clan qu'il souhaite rejoindre et s'acquitter du montant affiché calculé de façon dynamique (1% du prix actuel d'un coffre d'or). Une fois rejoint, une annotation s'affichera en dessous du nom de la mascotte.
 
 ![](/ZooRena5.png)
 
-Au debut de chaque match, chaque équipe se verra attribuer 100 points par défaut. Les scores diminueront au fur et à mesure de la bataille et le clan avec le plus grand nombre de points restants à la fin sera déclaré gagnant.
+Au début de chaque match, chaque équipe se verra attribuer 100 points par défaut. Les scores diminueront au fur et à mesure de la bataille et le clan avec le plus grand nombre de points restants à la fin sera déclaré gagnant.
 Les utilisateurs du clan gagnant se verront attribuer un coffre en argent ainsi que la possibilté de recevoir une partie du Jackpot grâce à leur trois tickets de loterie. 
 
 Il est impossible pour un match de se terminer en match nul.

@@ -85,8 +85,7 @@ Il est à noter que les tickets de loterie ne peuvent pas être réutilisés lor
 
 ![](/ZooRena4.png)
 
-Le ZooPorteur est le perroquet de ZooKeeper qui commente les événements et donne les résultats lors d'un combat en direct. Son utilisation principale est d'annoncer :
-The ZooPorter is ZooKeeper’s pixelated Parrot that will commentate throughout the event, and report on the action in real-time. The ZooPorter’s primary purpose is to announce results of both: 
+Le ZooPorteur est le perroquet de ZooKeeper qui commente les événements et donne les résultats lors d'un combat en direct. Son utilisation principale est d'annoncer : 
 
 *   Les événements de combat - durant lesquels les points des équipes diminueront
 *   Les événements des mises - le résultat de chaque type de mise

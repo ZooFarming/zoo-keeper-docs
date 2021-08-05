@@ -22,7 +22,7 @@ Users from the winning clan will all receive a Silver chest to claim, as well as
 
 It is not possible for a contest to end in a draw.
 
-The option to access and read the rules is also available from the same screen.
+The option to access and read the rules is also available from the clan selection screen.
 
 ## Boosting Clan Power
 
@@ -37,7 +37,7 @@ Once the battle starts, a progress bar will display the power weight of a clan t
 
 ## Wagers
 
-After joining a clan, all wagers can be accessed by clicking on the “Wager Events'' button.
+After joining a clan, all wagers can be accessed by clicking on the “Add a wager" button.
 Every contest will have 9 types of wager events. 
 An event can have several different outcomes but will only ever result in one being selected. Users can view all possible results and place a wager by choosing which one they believe will occur. 
 

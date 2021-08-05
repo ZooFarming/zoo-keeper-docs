@@ -30,7 +30,7 @@ Une option pour être redirigé vers la documentation sera aussi disponible lors
 ![](/ZooRena6.jpg)
 
 Une fois l'équipe choisie, l'utilisateur a la possibilité d'ajouter de la Puissance NFT à son clan en choisissant l'un des NFTs disponibles (seulement 1 NFT par utilisateur est autorisé).
-Ajouter un NFT à son clan peut devenir l'une des clefs de la victoire car cela augmente les chances d'être victorieux. 
+Ajouter un NFT à son clan peut devenir l'une des clefs du succès car cela augmente les chances d'être victorieux. 
 Il n'est en revanche pas possible de choisir un booster NFT qui est déjà utilisé autre part (dans une pool de farming par exemple).
 Il est à noter que le NFT choisi pour augmenter la Puissance NFT sera bloqué durant toute la durée du combat et ne pourra être retiré qu'une fois celui-ci terminé.
 

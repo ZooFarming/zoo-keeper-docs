@@ -94,7 +94,7 @@ You can join ZooKeeper's Official Telegram here: https://t.me/zoofarming
 
 ## Viewing Previous Contests (History)
 
-The “View previous fight” button displayed at the top bottom of the screen gives users the ability to access previous contests in more detail, via a list or series of scorecards. 
+The “View all fights” button displayed at the top bottom of the screen gives users the ability to access previous contests in more detail, via a list or series of scorecards. 
 This will also give users the ability to claim their NFTs and further obtain any previously unclaimed chests.
 
 

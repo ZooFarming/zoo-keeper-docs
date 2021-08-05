@@ -86,6 +86,8 @@ The ZooPorter is ZooKeeper’s pixelated Parrot that will commentate throughout 
 
 Additionally, the ZooPorter will also comment on the official Telegram channel before the fight to provide extra information (e.g. remaining time before fight starts, number of NFTs attached, etc) and will also announce lottery ticket winners once known.
 
+You can join ZooKeeper's Official Telegram here: https://t.me/zoofarming
+
 ## Viewing Previous Contests (History)
 
 The “View previous fight” button displayed at the top bottom of the screen gives users the ability to access previous contests in more detail, via a list or series of scorecards. 

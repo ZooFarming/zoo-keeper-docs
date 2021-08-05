@@ -26,7 +26,7 @@ The option to access and read the rules is also available from the same screen.
 
 ## Boosting Clan Power
 
-![](/ZooRena6.png)
+![](/ZooRena6.jpg)
 
 Once the entry fee has been paid, the user has the option of adding Power Weight to their selected clan by attaching an NFT (only 1 NFT per user is allowed). 
 Attaching an NFT to a clan could be the key to success as it boosts chances to stand victorious at the end of the battle.

@@ -13,7 +13,7 @@ Un bot qui représente le ZooPorteur (voir plus bas) sera aussi actif sur la cha
 ![](/ZooRena1.png)
 </center>
 
-En entrant dans ZooRena, l'écran principal montre un compte-à-rebours indiquant le temps restants avant le debut du prochain combat.
+En entrant dans ZooRena, l'écran principal montre un compte-à-rebours indiquant le temps restant avant le debut du prochain combat.
 L'utilisateur peut alors choisir le clan qu'il souhaite rejoindre et s'acquitter du montant affiché calculé de façon dynamique (1% du prix actuel d'un coffre d'or). Une fois rejoint, une annotation s'affichera en dessous du nom de la mascotte.
 
 ![](/ZooRena5.png)

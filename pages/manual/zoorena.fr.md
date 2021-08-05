@@ -69,10 +69,10 @@ Note : 50% du montant des mises sera ajouté au système de brûlage et les autr
 
 Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan et/ou qui misent sur les événements. Il y a plusieurs moyens d'accumuler des tickets de loterie :
 
-*   Trois (3) tickets sont donnés une fois le choix du clan effectué.
+*   Trois (3) tickets sont donnés une fois le choix du clan effectué
 *   Plusieurs tickets sont donnés lorsqu'une mise est placée et le nombre dépend s'il s'agit d'un coffre d'or ou d'argent mais aussi de la probabilité (1:2, 1:3, etc)
 *   Le nombre de tickets reçus est affiché sur la carte à coté de chaque mise
-*   Les mises pour les coffres d'or vous donnerons environ 10 fois plus de tickets de loterie que les mises pour les coffres d'argent
+*   Les mises pour les coffres d'or vous donneront environ 10 fois plus de tickets de loterie que les mises pour les coffres d'argent
 
 Les trois (3) tickets gagnants seront sélectionnés à l'issue du combat parmi les tickets de l'équipe gagnante (cela peut prendre jusqu'à plusieurs heures après le dénouement du combat) et le jackpot total sera distribué de manière égale pour ces trois tickets.
 

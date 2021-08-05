@@ -44,14 +44,14 @@ Chaque événement peut potentiellement se terminer de plusieurs façons mais se
 
 ![](/ZooRena2.png)
 
-Les mises doivent impérativement être placées avant le début du combat (jusqu'à 1 minute) et ne peuvent être ajoutées pendant. Le coût (en $ZOO) pour participer est dynamique et varie selon deux facteurs:
+Les mises doivent impérativement être placées avant le début du combat (jusqu'à 1 minute) et ne peuvent être ajoutées pendant. Le coût (en $ZOO) pour participer est dynamique et varie selon deux facteurs :
 
 *   La probabilité du résultat (1:2, 1:3, 1:4, etc)
 *   Le prix du coffre d'or/d'argent actuel sur le marché
 
 Example : Un coffre d'or pour une mise de 1:4 coûte forcément plus de $ZOO que pour une mise de 1:10 (car meilleure probabilité) 
 
-L'utilisateur peut choisir entre deux options pour chaque type de mise:
+L'utilisateur peut choisir entre deux options pour chaque type de mise :
  
 *   Un coffre d'argent
 *   Un coffre d'or

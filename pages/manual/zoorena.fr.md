@@ -76,7 +76,7 @@ Les tickets de loterie sont distribués aux utilisateurs qui rejoignent un clan 
 
 Les trois (3) tickets gagnants seront sélectionnés à l'issue du combat parmi les tickets de l'équipe gagnante (cela peut prendre jusqu'à plusieurs heures après le dénouement du combat) et le jackpot total sera distribué de manière égale pour ces trois tickets.
 
-Les tickets gagnants apparaissent dans la même section et apparaissent rayonnants dans la liste.
+Les tickets gagnants peuvent être trouvés dans la section correspondante et apparaissent rayonnants dans la liste.
 Le Jackpot est consitué de 50% des $ZOO des mises et 50% du prix d'entrée pour participer.
 
 Il est à noter que les tickets de loterie ne peuvent pas être réutilisés lors d'un prochain combat ou envoyé vers une adresse différente.

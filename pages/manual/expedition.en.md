@@ -4,7 +4,7 @@ The expedition page displays multiple ways to spend or stake ZOO tokens to obtai
 
 No matter how you manage to obtain it, a gold chest will always contain an NFT Booster. 
 
-A silver chest, however, will have a 1 in 10 chance of winning an NFT Booster. If you get "nothing" 9 times in a row, the next purchase will give you a 100% chance to acquire an NFT Booster.
+A silver chest, however, will have a 1 in 10 chance of winning an NFT Booster. If you get "nothing" 9 times in a row, the next purchase will give you a 100% chance to acquire an NFT Booster. A countdown of the current number of attempts left is displayed on the Silver chest itself.
 
 NFT are distributed randomly between chests but the rarest NFTs can only be found in Gold chests.
 

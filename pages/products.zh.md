@@ -20,10 +20,6 @@
 
 [了解更多关于宝箱](/manual/expedition#buy-goldsilver-chests)
 
-### 魔法卷轴 (即将到来)
-
-![](/phase2/magic_spells.png)
-
 
 ## 交易市场
 

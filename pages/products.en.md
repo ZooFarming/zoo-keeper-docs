@@ -20,11 +20,6 @@ The user has the possibility of earning chests by either buying them directly us
 
 [Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
-### Magic Spells (Coming soon)
-
-![](/phase2/magic_spells.png)
-
-
 
 
 ## The Market

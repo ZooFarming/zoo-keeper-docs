@@ -21,12 +21,6 @@ Kullanıcı belirli bir süre ZOO  kilitleyerek(stake) veya direkt ZOO token sat
 
 [Sandıklar hakkında fazlasını öğrenin](/manual/expedition#buy-goldsilver-chests)
 
-### Büyüler (Yakında Gelecek)
-
-![](/phase2/magic_spells.png)
-
-
-
 
 ## Pazar
 

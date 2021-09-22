@@ -20,12 +20,6 @@ L'utilisateur a la possibilité de gagner des coffres en les achetant directemen
 
 [En savoir plus sur les coffres](/expedition#buy-goldsilver-chests)
 
-### Sorts de magie (bientôt disponible)
-
-![](/phase2/magic_spells.png)
-
-
-
 
 ## Le Marché
 

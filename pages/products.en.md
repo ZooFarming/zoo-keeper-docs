@@ -34,7 +34,7 @@ The Market shows all available NFT Boost cards available to sell. Users can purc
 
 ![](/mysafe.png)
 
-The Safe is an area where the user’s ZOONFTs are displayed. Apart from allowing the viewing potential of ZooBooster cards to bring to farming pools and the full collection of Keepsakes available, it also provides the opportunity to sell any unwanted cards for the user’s preferred value/currency or transfer it to another wallet address.
+MySafe is an area where the user’s ZOONFTs are displayed. Apart from allowing the viewing potential of ZooBooster cards to bring to farming pools and the full collection of Keepsakes available, it also provides the opportunity to sell any unwanted cards for the user’s preferred value/currency or transfer it to another wallet address.
 
 [Learn more about My Safe](/manual/safe)
 

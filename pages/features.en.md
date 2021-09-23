@@ -29,7 +29,7 @@ Extra NFT boost cards are available on ZooKeeper. This unique ability in the cry
 
 ![](/nfttrading.png)
 
-All NFTs have a possibility to be used or sold in the market section. Selling NFT’s can be done in several cryptocurrencies available on ZooKeeper.
+All NFTs have a possibility to be used, sold in The Market or transferred via MySafe. Selling NFT’s can be done in several cryptocurrencies available on ZooKeeper.
 
 [Learn more about The Market](/manual/market)
 

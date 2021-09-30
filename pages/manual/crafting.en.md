@@ -27,7 +27,12 @@ Note that at any time users can “STAKE MORE” ZOO tokens into the pool or “
 
 A total of five classes (N, R, SR, SSR, and UR) are available for each ZooElixir to be upgraded to. This occurs once it has reached the maximum drops fill quota for each Class, until attaining the maximum level UR ZooElixir filled with 100 drops. Each new Elixir class upgrade must be manually “LEVEL(ED) UP” by the user once the current class is full (reaches 100 drops).
 
-![](/Crafting4.jpg)![](/Crafting5.jpg)
+<div style={{float:'left',marginTop:30}}>
+![](/Crafting4.jpg)
+</div>
+<div style={{marginTop:30}}>
+![](/Crafting5.jpg)
+</div>
 
 ## The Crafting Flowchart
 

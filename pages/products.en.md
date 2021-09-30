@@ -62,8 +62,8 @@ ZooRena is a feature in which users can join one of two clans and receive prizes
 
 [Learn more about ZooRena](/manual/zoorena)
 
-## Crafting (coming soon phase II)
+## Crafting
 
-![](/phase2/crafting.png)
+![](/Crafting1.png)
 
 

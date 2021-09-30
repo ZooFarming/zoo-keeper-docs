@@ -68,5 +68,5 @@ ZooRena is a feature in which users can join one of two clans and receive prizes
 
 ZooBooster NFTs can be combined together with a ZooElixir in order to create a better ZooBooster. This process can be executed by acquiring an empty Elixir bottle and staking ZOO to fill it, or by purchasing all necessary materials on The Market (once available).
 
-[Learn more about Crafting]
+[Learn more about Crafting](/manual/crafting)
 

@@ -23,15 +23,15 @@ This can be done directly on the pool using the option to buy a newly generated,
 Once a ZooElixir is attached, users can choose the amount of ZOO they wish to stake and start “brewing”. This will trigger the “Drops Rate” amount received per week to fill their selected ZooElixir.
 Note that at any time users can “STAKE MORE” ZOO tokens into the pool or “CLAIM” to remove their ZooElixir
 
-![](/Crafting3.jpg)
+![](/Crafting3.png)
 
 A total of five classes (N, R, SR, SSR, and UR) are available for each ZooElixir to be upgraded to. This occurs once it has reached the maximum drops fill quota for each Class, until attaining the maximum level UR ZooElixir filled with 100 drops. Each new Elixir class upgrade must be manually “LEVEL(ED) UP” by the user once the current class is full (reaches 100 drops).
 
 <div style={{float:'left',marginTop:30}}>
-![](/Crafting4.jpg)
+![](/Crafting4.png)
 </div>
 <div style={{marginTop:30}}>
-![](/Crafting5.jpg)
+![](/Crafting5.png)
 </div>
 
 ## The Crafting Flowchart

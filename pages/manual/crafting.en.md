@@ -45,10 +45,8 @@ If any of the previous steps are incorrect (e.g. not enough drops, ZooBoosters c
 
 Both ZooBoosters used in the crafting process will be burned and the number of drops in the ZooElixir bottle will decrease accordingly:
 
-Level 1 ZooBooster NFT Crafting requires 40 drops;
- 
+Level 1 ZooBooster NFT Crafting requires 40 drops; 
 Level 2 ZooBooster NFT Crafting requires 70 drops;
- 
 Level 3 ZooBooster NFT Crafting requires 100 drops.
 
 Two types of crafting are possible:

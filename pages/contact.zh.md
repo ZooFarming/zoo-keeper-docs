@@ -6,7 +6,7 @@
 
 推特: [https://twitter.com/ZooFarming](https://twitter.com/ZooFarming) 
 
-Medium: [https://medium.com/@ZooFarming](https://medium.com/@ZooFarming) 
+Medium: [https://medium.com/zookeeper-blog](https://medium.com/zookeeper-blog) 
 
 YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFarming)
 

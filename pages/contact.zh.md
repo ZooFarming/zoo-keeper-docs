@@ -10,7 +10,7 @@ Medium: [https://medium.com/zookeeper-blog](https://medium.com/zookeeper-blog)
 
 YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFarming)
 
-Reddit: [https://www.reddit.com/user/ZooFarming](https://www.reddit.com/user/ZooFarming) 
+Reddit: [https://www.reddit.com/r/ZooFarming](https://www.reddit.com/r/ZooFarming) 
 
 社区论坛: [http://bbs.zookeeper.finance](http://bbs.zookeeper.finance)
 

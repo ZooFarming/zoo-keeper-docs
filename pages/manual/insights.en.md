@@ -12,14 +12,14 @@ Slightly below on the left, a breakdown of the total value locked (TVL) is shown
 
 ![](/ZKInsights3.jpg)  ![](/ZKInsights4.jpg)
 
-Further down two sections are giving more information about chests such as price and its evolution, and NFT boosters with average bonuses attached (boost and lock time reducer) and total owned.
+Further down two sections are giving more information about chests such as price and its evolution, and ZooBoosters with average bonuses attached (boost and lock time reducer) and total owned.
 
 ![](/ZKInsights5.jpg)  ![](/ZKInsights6.jpg)
 
-The next part is focusing on NFT boosters classified and divided among their individual categories, levels, and classes. In this section, the user will also be able to check the Total Supply of each minted NFT, as well as view their Latest Sale price on The Market.
+The next part is focusing on ZooBoosters classified and divided among their individual categories, levels, and classes. In this section, the user will also be able to check the Total Supply of each minted ZooBooster, as well as view their Latest Sale price on The Market.
 
 ![](/ZKInsights7.jpg)
 
-Finally, a list of the last 30 NFT transactions performed on the platform can be found. This includes NFT purchases from The Market, and chest reward details from The Expedition.
+Finally, a tabbed list of the last 60 NFT transactions performed on the platform can be found. A mixed list with All (last 60 transactions) is the default view but other tabs include ZooBooster and Elixir purchases from The Market, chest reward details from The Expedition and Crafted items.
 
 ![](/ZKInsights8.jpg)

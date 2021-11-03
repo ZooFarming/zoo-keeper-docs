@@ -16,7 +16,7 @@ In this section, there are several farming pools that allow the user to deposit 
 
 ![](/goldchestfeature.png)
 
-The user has the possibility of earning chests by either buying them directly using ZOO tokens, or by locking these ZOO tokens. A gold chest will automatically provide the user with an NFT while a silver chest will only give a 1 in 10 chance. All purchased chests automatically burn the ZOO tokens used.
+The user has the possibility of earning chests by either buying them directly using ZOO tokens, or by locking their ZOO tokens for a period of time. A gold chest will automatically provide the user with an NFT while a silver chest will only give a 1 in 10 chance. All purchased chests automatically burn the ZOO tokens used.
 
 [Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
@@ -26,7 +26,7 @@ The user has the possibility of earning chests by either buying them directly us
 
 ![](/ZooMarket.png)
 
-The Market shows all available NFT Boost cards available to sell. Users can purchase NFT Boost cards with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
+The Market shows all available ZooBoosters and Elixirs available to purchase.  Users can purchase ZooBoosters or Elixirs with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
 
 [Learn more about The Market](/manual/market)
 
@@ -34,7 +34,7 @@ The Market shows all available NFT Boost cards available to sell. Users can purc
 
 ![](/mysafe.png)
 
-MySafe is an area where the user’s ZOONFTs are displayed. Apart from allowing the viewing potential of ZooBooster cards to bring to farming pools and the full collection of Keepsakes available, it also provides the opportunity to sell any unwanted cards for the user’s preferred value/currency or transfer it to another wallet address.
+My Safe is an area where the user’s can view their ZooBoosters, ZooElixirs and Keepsakes NFTs.  As well as being able to view their NFTs, users are also provided with the opportunity to sell any unwanted cards with a preferred value/currency or transfer it to another wallet address.
 
 [Learn more about My Safe](/manual/safe)
 
@@ -42,7 +42,7 @@ MySafe is an area where the user’s ZOONFTs are displayed. Apart from allowing 
 
 ![](/ZKInsights1.png)
 
-The Insights Page is a feature that adds several nifty sets of statistics for you to explore. From ZOO supply to Chests price but also NFTs details, you can find the most useful information within this page.
+The Insights Page is a feature that adds several nifty sets of statistics for you to explore. From ZOO supply to Chests price but also ZooBooster details, you can find the most useful information within this page.
 
 [Learn more about Insights](/manual/insights)
 
@@ -66,7 +66,7 @@ ZooRena is a feature in which users can join one of two clans and receive prizes
 
 ![](/Crafting1.png)
 
-ZooBooster NFTs can be combined together with a ZooElixir in order to create a better ZooBooster. This process can be executed by acquiring an empty Elixir bottle and staking ZOO to fill it, or by purchasing all necessary materials on The Market (once available).
+ZooBoosters can be combined together using ZooElixir in order to create a better ZooBooster. This process can be executed by purchasing an empty Elixir bottle and staking ZOO in the Alchemists Lab to fill it.  Alternatively, it's possible to purchase all necessary materials on The Market (providing they're available).
 
 [Learn more about Crafting](/manual/crafting)
 

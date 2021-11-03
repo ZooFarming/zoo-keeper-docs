@@ -13,3 +13,5 @@ YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFar
 Reddit: [https://www.reddit.com/r/ZooFarming](https://www.reddit.com/r/ZooFarming) 
 
 Forum: [http://bbs.zookeeper.finance](http://bbs.zookeeper.finance)
+
+Discord: [https://discord.gg/tAnnr77DYB](https://discord.gg/tAnnr77DYB)

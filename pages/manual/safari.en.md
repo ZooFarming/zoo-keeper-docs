@@ -4,7 +4,7 @@ In the Safari section the user can decide to stake ZOO to get rewards. Each pool
 
 There will always be only two pools active in The Safari, following cycles. Each cycle (called “Season”) will last for four weeks and will include a one week period, for the community to vote for the token/coin of the next Season.
 
-In order to join a pool, the user can click on the “stake ZOO” button (a), select the amount of ZOO to stake (b) (or hit MAX if all), and Approve and Validate. A timer will also be displayed to indicate the time left for this Season to end (c).
+In order to join a pool, the user can click on the “Stake ZOO” button (a), select the amount of ZOO to stake (b) (or hit MAX if all), and Approve and Validate. A timer will also be displayed to indicate the time left for this Season to end (c).
 
 <center style={{marginTop:10}}>
 ![](/ZKSafari2.png)

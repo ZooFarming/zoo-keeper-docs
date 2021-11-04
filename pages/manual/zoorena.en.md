@@ -28,10 +28,10 @@ The option to access and read the rules is also available from the clan selectio
 
 ![](/ZooRena6.jpg)
 
-Once the entry fee has been paid, the user has the option of adding Power Weight to their selected clan by attaching an NFT (only 1 NFT per user is allowed). 
-Attaching an NFT to a clan could be the key to success as it boosts chances to stand victorious at the end of the battle.
-It is not possible to use an NFT to boost clan power if the NFT in question is being used elsewhere (for example, in a farming pool). 
-Note that the NFT used to boost one’s chosen clan will be locked for the duration of the fight and can only be withdrawn once the fight is finished.
+Once the entry fee has been paid, the user has the option of adding Power Weight to their selected clan by attaching an ZooBooster (only 1  per user is allowed). 
+Attaching an ZooBooster to a clan could be the key to success as it increases the chances to stand victorious at the end of the battle.
+It is not possible to use an ZooBooster to boost clan power if the ZooBooster in question is being used elsewhere (for example, in a farming pool). 
+Note that the users chosen ZooBooster will be locked for the duration of the fight and can only be withdrawn once the fight has concluded.
 
 Once the battle starts, a progress bar will display the power weight of a clan that has been calculated using the NFTs provided by users before the contest.
 

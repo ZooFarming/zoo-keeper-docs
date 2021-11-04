@@ -1,16 +1,20 @@
 # The Market
 ![](/docs/image16.png)
 
-The Market is a place where you can buy NFT Boosters that other ZooKeeper users want to sell. Users can purchase boosters with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
+The Market is a place where you can buy ZooBoosters and Elixirs that other ZooKeeper users want to sell.
 
-Again, users can choose many different filtering types on the list of available boosters and display only those available that meet the users' requirements more precisely.
+ZooBoosters and Elixirs are split into their respctive areas, so upon enterng The Market, users will need to choose which of the two they are interested in purchasing.
+
+Users can purchase these NFTs with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
+
+Users can choose from many different filtering options whether thats in the ZooBooster Market, or the Elixir Market.
 
 Sale orders are valid for 14 days by default, and orders longer than 14 days will be removed automatically.
 
 Note that a burn mechanism has been implemented when buying/selling an NFT in The Market: 1% of the price set by the user will automatically be added to the burn system upon purchase and released to the total burn on a regular basis.
 
 ## Selling an NFT
-*   Go to My Safe
+*   Go to My Safe (and choose ZooBoosters or Elixirs)
 *   Hover over the NFT you want to sell with your mouse
 ![](/docs/image1.png)
 *   Type in the amount and choose the token you want to sell for
@@ -22,7 +26,8 @@ Note that a burn mechanism has been implemented when buying/selling an NFT in Th
 ![](/docs/image8.png)
 
 ## Buying an NFT
-* Hover over the card you want to buy with your mouse and click on buy
+*   Go to The Market (and choose ZooBoosters or Elixirs)
+*   Hover over the card you want to buy with your mouse and click on buy
 ![](/docs/buynft.png)
-* Confirm the buy
+*   Confirm the buy
 ![](/docs/buynft2.png)

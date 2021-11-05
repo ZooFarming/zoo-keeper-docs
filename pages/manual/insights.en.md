@@ -22,4 +22,4 @@ The next part is focusing on ZooBoosters classified and divided among their indi
 
 Finally, a tabbed list of the last 60 NFT transactions performed on the platform can be found. A mixed list with All (last 60 transactions) is the default view but other tabs include ZooBooster and Elixir purchases from The Market, chest reward details from The Expedition and Crafted items.
 
-![](/ZKInsights8.jpg)
+![](/LatestTransactions.png)

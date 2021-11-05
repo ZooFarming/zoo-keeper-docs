@@ -5,6 +5,8 @@ The Market is a place where you can buy ZooBoosters and Elixirs that other ZooKe
 
 ZooBoosters and Elixirs are split into their respctive areas, so upon enterng The Market, users will need to choose which of the two they are interested in purchasing.
 
+![](/docs/MarketGateway.png)
+
 Users can purchase these NFTs with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
 
 Users can choose from many different filtering options whether thats in the ZooBooster Market, or the Elixir Market.

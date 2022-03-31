@@ -2,7 +2,7 @@
 
 ![](/contactus.png)
 
-Official ZOO Ecosystem Website: Zoo.One
+Official ZOO Ecosystem Website: https://www.zoo.one
 
 Official ZooKeeper Website: https://ZooKeeper.finance
 

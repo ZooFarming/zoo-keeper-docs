@@ -1,13 +1,13 @@
 # Features
 
+## Attach NFT Boost Cards
 
-## Dual Farming
+![](/attach.png)
 
-![](/dualfarming.png)
+ZooBoosters (ZooKeeper NFT) cards are available to earn, purchase or win via different mechanisms in the ZooKeeper dApp. The abilities provided by ZooBoosters are unique in the crypto market and will allow each user to both reduce the locktime and increase rewards. 
 
-In Zookeeper, the notion of dual farming is introduced which allows the user to farm zoo tokens and wasp tokens (on selected pools) due to the partnership with WanSwap.
+[Learn more about Pool](/manual/pool)
 
-[Learn more about Wanswap](/faq#explain-wanswap)
 
 ## Optional Lock Period
 
@@ -17,13 +17,6 @@ ZooKeeper offers users the possibility of increasing yield farming rewards by us
 
 [Learn more about Pool](/manual/pool)
 
-## Attach NFT Boost Cards
-
-![](/attach.png)
-
-ZooBoosters (ZooKeeper NFT) cards are available to earn, purchase or win via different mechanisms in the ZooKeeper dApp. The abilities provided by ZooBoosters are unique in the crypto market and will allow each user to both reduce the locktime and increase rewards. 
-
-[Learn more about Pool](/manual/pool)
 
 ## NFT Trading
 
@@ -33,13 +26,6 @@ ZooBoosters can be purchased or sold in The Market. Selling NFT’s can be done 
 
 [Learn more about The Market](/manual/market)
 
-## Governance
-
-![](/governance.png)
-
-ZooKeeper Community will have access to a voting system that will be reviewed by the ZooKeeper team before implementation.
-
-[Learn more about Governance rules](/governance)
 
 ## Burn Mechanic
 

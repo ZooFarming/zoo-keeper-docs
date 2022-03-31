@@ -20,7 +20,13 @@ The user has the possibility of earning chests by either buying them directly us
 
 [Learn more about Chests](/manual/expedition#buy-goldsilver-chests)
 
+## Crafting
 
+![](/Crafting1.png)
+
+ZooBoosters can be combined together using ZooElixir in order to create a better ZooBooster. This process can be executed by purchasing an empty Elixir bottle and staking ZOO in the Alchemists Lab to fill it.  Alternatively, it's possible to purchase all necessary materials on The Market (providing they're available).
+
+[Learn more about Crafting](/manual/crafting)
 
 ## The Market
 
@@ -46,7 +52,7 @@ The Insights Page is a feature that adds several nifty sets of statistics for yo
 
 [Learn more about Insights](/manual/insights)
 
-## ZOO Safari Staking
+## ZOO Safari Staking (Wanchain only)
 
 ![](/ZKSafari.jpg)
 
@@ -54,7 +60,7 @@ Safari pools are staking pools where the rewards received are chosen by the comm
 
 [Learn more about Safari](/manual/safari)
 
-## ZooRena
+## ZooRena (Closed)
 
 ![](/Zoorena.jpg)
 
@@ -62,11 +68,4 @@ ZooRena is a feature in which users can join one of two clans and receive prizes
 
 [Learn more about ZooRena](/manual/zoorena)
 
-## Crafting
-
-![](/Crafting1.png)
-
-ZooBoosters can be combined together using ZooElixir in order to create a better ZooBooster. This process can be executed by purchasing an empty Elixir bottle and staking ZOO in the Alchemists Lab to fill it.  Alternatively, it's possible to purchase all necessary materials on The Market (providing they're available).
-
-[Learn more about Crafting](/manual/crafting)
 

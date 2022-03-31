@@ -17,10 +17,8 @@ Note that a burn mechanism has been implemented when buying/selling an NFT in Th
 
 ## Selling an NFT
 *   Go to My Safe (and choose ZooBoosters or Elixirs)
-*   Hover over the NFT you want to sell with your mouse
+*   Hover over the NFT you want to sell and type in the amount of ZOO
 ![](/docs/image1.png)
-*   Type in the amount and choose the token you want to sell for
-![](/docs/image20.png)
 *   Click on SELL 
 ![](/docs/image9.png)
 *   Approve and after that confirm

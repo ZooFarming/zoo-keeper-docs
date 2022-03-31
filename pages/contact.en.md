@@ -2,16 +2,18 @@
 
 ![](/contactus.png)
 
-Telegram: [https://t.me/ZooFarming](https://t.me/zoofarming)
+Official ZOO Ecosystem Website: Zoo.One
 
-Twitter: [https://twitter.com/ZooFarming](https://twitter.com/ZooFarming) 
+Official ZooKeeper Website: https://ZooKeeper.finance
 
-Medium: [https://medium.com/zookeeper-blog](https://medium.com/zookeeper-blog) 
+Official Twitter: https://twitter.com/ZooEcosystem
 
-YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFarming)
+Official Telegram: https://t.me/ZooEcosystem
 
-Reddit: [https://www.reddit.com/r/ZooFarming](https://www.reddit.com/r/ZooFarming) 
+Official Discord: https://discord.gg/ZooEcosystem
 
-Forum: [http://bbs.zookeeper.finance](http://bbs.zookeeper.finance)
+Official YouTube: https://www.youtube.com/c/ZooFarming
 
-Discord: [https://discord.gg/tAnnr77DYB](https://discord.gg/tAnnr77DYB)
+Official Reddit: https://www.reddit.com/r/ZooEcosystem/
+
+Official Instagram: https://www.instagram.com/ZooEcosystem/

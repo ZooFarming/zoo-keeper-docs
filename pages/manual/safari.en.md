@@ -1,4 +1,4 @@
-# The Safari
+# The Safari (Wanchain only)
 
 In the Safari section the user can decide to stake ZOO to get rewards. Each pool allows the user to earn the designated coin/token: one permanent pool will stake ZOO to earn ZOO and one pool to stake ZOO and earn a coin/token chosen by the community.
 

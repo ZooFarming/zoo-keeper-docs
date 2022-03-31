@@ -1,6 +1,6 @@
 # ZooRena (Closed)
 
-**This feature has been permanently discontinued.**
+*This feature has been permanently discontinued.*
 
 ZooRena is an exciting place where two clans representing two of the numerous ZooKeeper mascots will be automatically selected every week to participate in an amusing battle against each other.
 

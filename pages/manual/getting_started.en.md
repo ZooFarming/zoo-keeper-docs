@@ -1,6 +1,6 @@
 # Getting Started
 
-![](/availableon.png)
+![](/gettingstarted.jpg)
 
 Before you start, you'll need one of the three wallets ZooKeeper supports:
 

@@ -20,7 +20,7 @@ ZooKeeper offers users the possibility of increasing yield farming rewards by us
 
 ## NFT Trading
 
-![](/nfttrading.png)
+![](/nfttrading.jpg)
 
 ZooBoosters can be purchased or sold in The Market. Selling NFT’s can be done in several cryptocurrencies available on ZooKeeper.  If you want to transfer a ZooBooster or Elixir to another address without using The Market, this is possibe with the Transfer functionality provided in the My Safe area.
 

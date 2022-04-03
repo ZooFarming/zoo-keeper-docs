@@ -30,7 +30,7 @@ ZooBoosters can be combined together using ZooElixir in order to create a better
 
 ## The Market
 
-![](/ZooMarket.png)
+![](/productsmarket.jpg)
 
 The Market shows all available ZooBoosters and Elixirs available to purchase.  Users can purchase ZooBoosters or Elixirs with an array of different wan tokens (The amount shown is what the seller is asking for and is explained later in the “My Safe” section). 
 

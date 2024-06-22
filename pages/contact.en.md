@@ -10,7 +10,7 @@ Official Twitter: https://twitter.com/ZooEcosystem
 
 Official Telegram: https://t.me/ZooEcosystem
 
-Official Discord: https://discord.gg/ZooEcosystem
+Official Discord: https://discord.com/invite/zoo-ecosystem-846302788422074388
 
 Official YouTube: https://www.youtube.com/c/ZooFarming
 
